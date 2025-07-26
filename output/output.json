@@ -1,0 +1,1273 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "context_keywords": [
+      "professional",
+      "create",
+      "manage",
+      "fillable",
+      "forms",
+      "onboarding",
+      "compliance"
+    ],
+    "processing_timestamp": "2025-07-27T02:55:49.347542",
+    "total_sections_processed": 95
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill In Interactive Forms",
+      "importance_rank": 1,
+      "page_number": 8,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Create A Pdf Using The Print Command (Windows)",
+      "importance_rank": 2,
+      "page_number": 12,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create A Pdf As An Email Attachment",
+      "importance_rank": 3,
+      "page_number": 18,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "What’S The Best Way To Create A Pdf?",
+      "importance_rank": 4,
+      "page_number": 2,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "You Can Change A Flat Form To A Fillable Form By Either Using The Prepare Form Tool Or",
+      "importance_rank": 5,
+      "page_number": 12,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "The Forms Preferences Apply To The Way That The Application Handles Open Forms As You Work.",
+      "importance_rank": 6,
+      "page_number": 10,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Creates An Embedded Index, Which Speeds Up Searches, Especially When You Convert Large",
+      "importance_rank": 7,
+      "page_number": 8,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Excel Files To Pdf",
+      "importance_rank": 8,
+      "page_number": 22,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Certifying And Signing Documents",
+      "importance_rank": 9,
+      "page_number": 23,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Automatically. Type Your Text To Fill The Field.",
+      "importance_rank": 10,
+      "page_number": 15,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Includes Full Dsc (Document Structuring Conventions) Comments And Other Advanced",
+      "importance_rank": 11,
+      "page_number": 20,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Convert Pdf To Xml 1.0",
+      "importance_rank": 12,
+      "page_number": 22,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Or, Select The Hamburger Menu (Windows) Or",
+      "importance_rank": 13,
+      "page_number": 4,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Format, Or Export Images In A Pdf To Another Format.",
+      "importance_rank": 14,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Or, Select The Hamburger Menu (Windows) Or",
+      "importance_rank": 15,
+      "page_number": 5,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Specify The Maximum File Size For Each Document In The Split.",
+      "importance_rank": 16,
+      "page_number": 6,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Depending On The Type Of File Being Converted, The Authoring Applica�On Opens",
+      "importance_rank": 17,
+      "page_number": 8,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Converts Certain Elements In Original Office Documents To Pdf Bookmarks: Word Headings,",
+      "importance_rank": 18,
+      "page_number": 6,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Rgb/Grayscale",
+      "importance_rank": 19,
+      "page_number": 10,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Rgb/Cmyk/Grayscale",
+      "importance_rank": 20,
+      "page_number": 9,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Convert Pdf To Jpeg Or Jpeg 2000",
+      "importance_rank": 21,
+      "page_number": 24,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "File Format Op�Ons For Pdf Export In Acrobat",
+      "importance_rank": 22,
+      "page_number": 8,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Set The Trust Level Of A Certificate",
+      "importance_rank": 23,
+      "page_number": 4,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Convert Email Folders To A New Pdf",
+      "importance_rank": 24,
+      "page_number": 25,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Clear Chat History",
+      "importance_rank": 25,
+      "page_number": 2,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Adobe Pdf Printing Preferences (Windows)",
+      "importance_rank": 26,
+      "page_number": 14,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Take A Snapshot Of A Page",
+      "importance_rank": 27,
+      "page_number": 3,
+      "heading_level": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Collaborating On A Project, Seeking Feedback, Or Simply Distributing",
+      "importance_rank": 28,
+      "page_number": 1,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Read-Aloud Generated Responses",
+      "importance_rank": 29,
+      "page_number": 4,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Store Certificates On Directory Servers",
+      "importance_rank": 30,
+      "page_number": 27,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Particular Order For Signing, Toggle The Switch To Complete In Any Order.",
+      "importance_rank": 31,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Alternatively, From Acrobat Home, Select See All Tools. In The Protect Section,",
+      "importance_rank": 32,
+      "page_number": 22,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "For Instance, Companies In The European Union Who Need To Comply With Advanced Or",
+      "importance_rank": 33,
+      "page_number": 20,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Determine The Type You Should Choose To Sign Your Document. (See Signature Types.)",
+      "importance_rank": 34,
+      "page_number": 25,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Select Next, And Then Select Finish.",
+      "importance_rank": 35,
+      "page_number": 27,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Commenting Preferences",
+      "importance_rank": 36,
+      "page_number": 15,
+      "heading_level": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "The Pdf Optimizer Lets You Change The Compatibility Version Of Your Pdfs So They Can Be",
+      "importance_rank": 37,
+      "page_number": 8,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Menu Next To Microsoft Excel, Select The Format You Want Your Excel To Be. You",
+      "importance_rank": 38,
+      "page_number": 18,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Extended Pdf.",
+      "importance_rank": 39,
+      "page_number": 10,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "You Can Sign Component Pdfs Within A Pdf Portfolio, Or Sign The Pdf Portfolio As A Whole.",
+      "importance_rank": 40,
+      "page_number": 9,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "The Component Pdfs, You Can Sign The Entire Pdf Portfolio To Finalize It. Alternatively, You Can",
+      "importance_rank": 41,
+      "page_number": 9,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "From Ldap Directories.",
+      "importance_rank": 42,
+      "page_number": 1,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Pdf To Tiff Conversion Settings",
+      "importance_rank": 43,
+      "page_number": 11,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "When You Apply A Certificate-Based Signature, Acrobat Uses A Hashing Algorithm To Generate A",
+      "importance_rank": 44,
+      "page_number": 22,
+      "heading_level": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "The Ultimate Pdf Sharing Checklist",
+      "importance_rank": 45,
+      "page_number": 1,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Appropriate File Type And Follow Through The Steps.",
+      "importance_rank": 46,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Specify The Reason For Signing The Document, The Location, And Your Contact",
+      "importance_rank": 47,
+      "page_number": 26,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "With Predefined Categories Using Named Entity Recognition, E.G., Replacing “John",
+      "importance_rank": 48,
+      "page_number": 5,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Certify Options Provide A Higher Level Of Document Control Than Digitally Sign. For Documents",
+      "importance_rank": 49,
+      "page_number": 24,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "And Markups In Pdfs.",
+      "importance_rank": 50,
+      "page_number": 15,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Similarities, Differences, And Key Patterns. With Ai Assistant, You Can Make Targeted Requests,",
+      "importance_rank": 51,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Primary Question. Ai Assistant Uses The Latest Ai Language Model, Gpt 4O, To Provide More",
+      "importance_rank": 52,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Corresponding Data File To Output Mail Merges Directly To Pdf. You Can Even Set Up Pdfmaker To",
+      "importance_rank": 53,
+      "page_number": 27,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Limited Time Because Certificates Related To The Signature Eventually Expire Or Are Revoked.",
+      "importance_rank": 54,
+      "page_number": 10,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Using Ai Assistant In Acrobat Mobile",
+      "importance_rank": 55,
+      "page_number": 26,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "You Must Sign In To The Zoom Web Portal To Access The Zoom Meeting Information. Then,",
+      "importance_rank": 56,
+      "page_number": 15,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "You Can Split One Or More Pdfs Into Multiple Smaller Pdfs. When Splitting A Pdf, You Can",
+      "importance_rank": 57,
+      "page_number": 6,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "The Generative Ai Features Are Only Available In English For Users With Individual Or Teams",
+      "importance_rank": 58,
+      "page_number": 6,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "The Button To Place The Detected Form Fields In The Pdf Document. Alternatively,",
+      "importance_rank": 59,
+      "page_number": 6,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Layers In The Resulting Pdf, Or You Can Flatten The Layers. You Can Also Organize The Visio Layers",
+      "importance_rank": 60,
+      "page_number": 1,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Data Action.",
+      "importance_rank": 61,
+      "page_number": 8,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Roaming Ids Can Be Stored On A Server. Acrobat Includes A Default Signature Handler That Can",
+      "importance_rank": 62,
+      "page_number": 27,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Pdfmaker Conversion Settings Vary According To File Types. For Example, The Options Available",
+      "importance_rank": 63,
+      "page_number": 20,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Then Drag The Image To The Desired Location.",
+      "importance_rank": 64,
+      "page_number": 14,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Select Add Initials. Your Initials Appear In The Field.",
+      "importance_rank": 65,
+      "page_number": 7,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "When You Convert Your Visio File, Only Shapes And Guides That Are Printable And Visible In The",
+      "importance_rank": 66,
+      "page_number": 29,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Signature Styles; Click Change Style To View A Different Style.",
+      "importance_rank": 67,
+      "page_number": 17,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "The Command Is Unavailable If The Signature Is Invalid, Or Is Signed With A Self-Signed",
+      "importance_rank": 68,
+      "page_number": 11,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "In Many Authoring Applications, You Can Use The Print Command With The Adobe Pdf Printer To",
+      "importance_rank": 69,
+      "page_number": 12,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Want To Share The File With.",
+      "importance_rank": 70,
+      "page_number": 11,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Open A File In The Application?",
+      "importance_rank": 71,
+      "page_number": 5,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "The Following:",
+      "importance_rank": 72,
+      "page_number": 28,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "The Color You Want Your Text To Change Into.",
+      "importance_rank": 73,
+      "page_number": 10,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Use @Mention In Your Personal Commenting Notes To Start A Review. The @Mentions Includes",
+      "importance_rank": 74,
+      "page_number": 12,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Or Select An Image Of Your Signature.",
+      "importance_rank": 75,
+      "page_number": 17,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "The Acrobat Pdfmaker Conversion Settings Dialog Box Contains The Option That Determines",
+      "importance_rank": 76,
+      "page_number": 23,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Use The Correct Font And Formatting. When Editing The Document, Ensure That The Font And",
+      "importance_rank": 77,
+      "page_number": 14,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Document Area.",
+      "importance_rank": 78,
+      "page_number": 10,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Pop-Up Opacity",
+      "importance_rank": 79,
+      "page_number": 15,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "By Dragging A Handle. The Knee Line Can Be Resized In One Direction Only; Horizontal Knee Lines",
+      "importance_rank": 80,
+      "page_number": 12,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Expands Vertically As You Type So That All Text Remains Visible.",
+      "importance_rank": 81,
+      "page_number": 12,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Substituted With A Close Match Or Default Font.",
+      "importance_rank": 82,
+      "page_number": 28,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "May Look Different When Opened In Acrobat. This Can Happen If The Images Have A Color",
+      "importance_rank": 83,
+      "page_number": 9,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "The Chat History Might Still Contain Content From Documents You'Ve Removed From A",
+      "importance_rank": 84,
+      "page_number": 7,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Of The Markup To Indicate The Presence Of Text In The Pop-Up Note.",
+      "importance_rank": 85,
+      "page_number": 10,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "With Acrobat.",
+      "importance_rank": 86,
+      "page_number": 15,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Method 2 (Windows Only): Open The File In Its Source",
+      "importance_rank": 87,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "For Headings And Styles Indicate The Element Types.",
+      "importance_rank": 88,
+      "page_number": 11,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Mail Merges From Word Generate Documents Like Form Letters—For One Common Example—",
+      "importance_rank": 89,
+      "page_number": 27,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Show This Number Of Recent Archives (Outlook Only)",
+      "importance_rank": 90,
+      "page_number": 8,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Open The List Of Printers, And Then Click Properties Or Preferences.)",
+      "importance_rank": 91,
+      "page_number": 12,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Font, Font Size",
+      "importance_rank": 92,
+      "page_number": 15,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "File Size",
+      "importance_rank": 93,
+      "page_number": 7,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Microsoft Office",
+      "importance_rank": 94,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Encoding",
+      "importance_rank": 95,
+      "page_number": 22,
+      "heading_level": 2
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill In Interactive Forms",
+      "refined_text": "An interactive form contains fields that you can select or fill in. the page (right-click on the page to open the context menu).",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Create A Pdf Using The Print Command (Windows)",
+      "refined_text": "setting. (In some applications, you may need to click Setup in the Print dialog box to",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Create A Pdf As An Email Attachment",
+      "refined_text": "",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "What’S The Best Way To Create A Pdf?",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "You Can Change A Flat Form To A Fillable Form By Either Using The Prepare Form Tool Or",
+      "refined_text": "enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "The Forms Preferences Apply To The Way That The Application Handles Open Forms As You Work.",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Creates An Embedded Index, Which Speeds Up Searches, Especially When You Convert Large",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Excel Files To Pdf",
+      "refined_text": "When creating a PDF from Microsoft Word, PowerPoint, or Excel, you can set conversion options for the current file. You can also select a range of content in the file to convert. The",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Certifying And Signing Documents",
+      "refined_text": "The Use a certificate tool lets you apply two types of certificate-based signatures. You can Certify a document, attest to its content or approve a document with the Digitally sign option.",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Automatically. Type Your Text To Fill The Field.",
+      "refined_text": "To fill the PDF form with your desired color, from the Quick actions toolbar, select the Color",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Includes Full Dsc (Document Structuring Conventions) Comments And Other Advanced",
+      "refined_text": "information preserved by Adobe Acrobat Distiller. You can also create an EPS file from any PDF",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Convert Pdf To Xml 1.0",
+      "refined_text": "To export a file in XML format, go to All Tools > Export a PDF. Select other format, then the",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Or, Select The Hamburger Menu (Windows) Or",
+      "refined_text": "the File menu (macOS) > Create > PDF from clipboard and follow through the workflow.",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Format, Or Export Images In A Pdf To Another Format.",
+      "refined_text": "Adobe Acrobat Reader users can save a copy of a PDF or PDF Portfolio if the creator of the document has enabled usage rights. If a document has additional or restricted usage rights,",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Or, Select The Hamburger Menu (Windows) Or",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Specify The Maximum File Size For Each Document In The Split.",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Depending On The Type Of File Being Converted, The Authoring Applica�On Opens",
+      "refined_text": "automa�cally, or a progress dialog box appears. If the file is in an unsupported format, a message appears, telling you that the file cannot be converted to PDF.",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Converts Certain Elements In Original Office Documents To Pdf Bookmarks: Word Headings,",
+      "refined_text": "Excel worksheet names, or PowerPoint titles. Selecting this option overrides any settings on the Bookmarks tab of the Conversion Settings dialog box. Add Links",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Rgb/Grayscale",
+      "refined_text": "Specifies the type of color management for the output file and whether to embed an ICC",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Rgb/Cmyk/Grayscale",
+      "refined_text": "Specifies the type of color management to be applied to the output file and whether to",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Convert Pdf To Jpeg Or Jpeg 2000",
+      "refined_text": "",
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "File Format Op�Ons For Pdf Export In Acrobat",
+      "refined_text": "To convert a PDF to different file formats, select Convert from the global bar. Each file format",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Set The Trust Level Of A Certificate",
+      "refined_text": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Convert Email Folders To A New Pdf",
+      "refined_text": "PDFMaker can convert multiple folders to PDF in one procedure. It is not necessary to select the",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Clear Chat History",
+      "refined_text": "You can clear the chat history and ensure that the AI Assistant treats the document as new so",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Adobe Pdf Printing Preferences (Windows)",
+      "refined_text": "Printing preferences apply to all applications that use the Adobe PDF printer, unless you change",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "section_title": "Take A Snapshot Of A Page",
+      "refined_text": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the",
+      "page_number": 3
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "Collaborating On A Project, Seeking Feedback, Or Simply Distributing",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Read-Aloud Generated Responses",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Store Certificates On Directory Servers",
+      "refined_text": "",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Particular Order For Signing, Toggle The Switch To Complete In Any Order.",
+      "refined_text": "(Optional) Click Add Me, if you want to be included as a signer of the",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Alternatively, From Acrobat Home, Select See All Tools. In The Protect Section,",
+      "refined_text": "",
+      "page_number": 22
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "For Instance, Companies In The European Union Who Need To Comply With Advanced Or",
+      "refined_text": "",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Determine The Type You Should Choose To Sign Your Document. (See Signature Types.)",
+      "refined_text": "Set signing preferences Signing workflow preferences control what you can see and do when the signing dialog box",
+      "page_number": 25
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Select Next, And Then Select Finish.",
+      "refined_text": "Once the roaming ID is added, it can be used for signing or encryption. When you perform a",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Commenting Preferences",
+      "refined_text": "",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "The Pdf Optimizer Lets You Change The Compatibility Version Of Your Pdfs So They Can Be",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Menu Next To Microsoft Excel, Select The Format You Want Your Excel To Be. You",
+      "refined_text": "",
+      "page_number": 18
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Extended Pdf.",
+      "refined_text": "server. In addition, the signature validation time must be set to Secure Time by navigating",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "You Can Sign Component Pdfs Within A Pdf Portfolio, Or Sign The Pdf Portfolio As A Whole.",
+      "refined_text": "Signing a component PDF locks the PDF for editing and secures its content. After signing all",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "The Component Pdfs, You Can Sign The Entire Pdf Portfolio To Finalize It. Alternatively, You Can",
+      "refined_text": "sign the PDF Portfolio as a whole to lock the content of all component PDFs simultaneously.",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "From Ldap Directories.",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Pdf To Tiff Conversion Settings",
+      "refined_text": "In Acrobat, select All tools > Export a PDF and select Image format. From the drop-down",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "When You Apply A Certificate-Based Signature, Acrobat Uses A Hashing Algorithm To Generate A",
+      "refined_text": "",
+      "page_number": 22
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "The Ultimate Pdf Sharing Checklist",
+      "refined_text": "",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Appropriate File Type And Follow Through The Steps.",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Specify The Reason For Signing The Document, The Location, And Your Contact",
+      "refined_text": "",
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "With Predefined Categories Using Named Entity Recognition, E.G., Replacing “John",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Certify Options Provide A Higher Level Of Document Control Than Digitally Sign. For Documents",
+      "refined_text": "",
+      "page_number": 24
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "And Markups In Pdfs.",
+      "refined_text": "result, sometimes you need to scroll or zoom out to see comments that are located off",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Similarities, Differences, And Key Patterns. With Ai Assistant, You Can Make Targeted Requests,",
+      "refined_text": "such as highlighting the differences between PDF contracts. It links to text and data table",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Primary Question. Ai Assistant Uses The Latest Ai Language Model, Gpt 4O, To Provide More",
+      "refined_text": "accurate and clear answers to your queries based on more citations. It can extract information",
+      "page_number": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Corresponding Data File To Output Mail Merges Directly To Pdf. You Can Even Set Up Pdfmaker To",
+      "refined_text": "",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Limited Time Because Certificates Related To The Signature Eventually Expire Or Are Revoked.",
+      "refined_text": "",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Using Ai Assistant In Acrobat Mobile",
+      "refined_text": "",
+      "page_number": 26
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "You Must Sign In To The Zoom Web Portal To Access The Zoom Meeting Information. Then,",
+      "refined_text": "download the meeting transcript and open it in Acrobat to use the AI features. Do the",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "You Can Split One Or More Pdfs Into Multiple Smaller Pdfs. When Splitting A Pdf, You Can",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "The Generative Ai Features Are Only Available In English For Users With Individual Or Teams",
+      "refined_text": "",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "The Button To Place The Detected Form Fields In The Pdf Document. Alternatively,",
+      "refined_text": "drag fields from the tabs in the right pane and drop the fields where desired in the",
+      "page_number": 6
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Layers In The Resulting Pdf, Or You Can Flatten The Layers. You Can Also Organize The Visio Layers",
+      "refined_text": "in layer sets, which are folders in the Acrobat Layers panel. select Retain Some Layers In The Selected Page.",
+      "page_number": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Data Action.",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Roaming Ids Can Be Stored On A Server. Acrobat Includes A Default Signature Handler That Can",
+      "refined_text": "access digital IDs from various locations. Register the digital ID in Acrobat for it to be available",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Pdfmaker Conversion Settings Vary According To File Types. For Example, The Options Available",
+      "refined_text": "for PowerPoint files aren’t the same as the options available for Outlook files. Once you’ve",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "Then Drag The Image To The Desired Location.",
+      "refined_text": "",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Select Add Initials. Your Initials Appear In The Field.",
+      "refined_text": "icon, and then click and move the signature as desired. then hold and drag it as desired.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "When You Convert Your Visio File, Only Shapes And Guides That Are Printable And Visible In The",
+      "refined_text": "Visio drawing are converted and appear in the PDF. Shapes are converted regardless of their",
+      "page_number": 29
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Signature Styles; Click Change Style To View A Different Style.",
+      "refined_text": "",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "The Command Is Unavailable If The Signature Is Invalid, Or Is Signed With A Self-Signed",
+      "refined_text": "",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "In Many Authoring Applications, You Can Use The Print Command With The Adobe Pdf Printer To",
+      "refined_text": "convert your file to PDF. Your source document is converted to PostScript and fed directly to",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Want To Share The File With.",
+      "refined_text": "file with are displayed next to Shared with. Select the profile icon to open the",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "Open A File In The Application?",
+      "refined_text": "",
+      "page_number": 5
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "The Following:",
+      "refined_text": "tools > Scan & OCR, then select In this file under RECOGNIZE TEXT to export image",
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "section_title": "The Color You Want Your Text To Change Into.",
+      "refined_text": "For macOS: You see a Color dialog box with options to change the font color. You can",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Use @Mention In Your Personal Commenting Notes To Start A Review. The @Mentions Includes",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Or Select An Image Of Your Signature.",
+      "refined_text": "",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "The Acrobat Pdfmaker Conversion Settings Dialog Box Contains The Option That Determines",
+      "refined_text": "",
+      "page_number": 23
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Use The Correct Font And Formatting. When Editing The Document, Ensure That The Font And",
+      "refined_text": "formatting of the edited text match the original document as closely as possible. If you don't",
+      "page_number": 14
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "Document Area.",
+      "refined_text": "comma. For example, if you want to delete pages 3 and 5, enter 3, 5 in the pages field",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Pop-Up Opacity",
+      "refined_text": "Determines the opacity of comment pop-up notes in values from 1 to 100. When a pop-up",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "By Dragging A Handle. The Knee Line Can Be Resized In One Direction Only; Horizontal Knee Lines",
+      "refined_text": "can be resized horizontally only; vertical knee lines can be resized vertically only. The text box",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Expands Vertically As You Type So That All Text Remains Visible.",
+      "refined_text": "You can move the text box itself or together with the end-point line. The text box moves",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Substituted With A Close Match Or Default Font.",
+      "refined_text": "Select text and images press Ctrl (Windows) or Command (macOS); the pointer changes to display a",
+      "page_number": 28
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "May Look Different When Opened In Acrobat. This Can Happen If The Images Have A Color",
+      "refined_text": "profile included at the page level but not inside the image data. In this case, Acrobat cannot",
+      "page_number": 9
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "The Chat History Might Still Contain Content From Documents You'Ve Removed From A",
+      "refined_text": "Collection. The AI Assistant may also use this chat history as context when responding to your",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Of The Markup To Indicate The Presence Of Text In The Pop-Up Note.",
+      "refined_text": "Also, you can edit PDFs with comments online. Our online PDF editor lets you easily add text,",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "section_title": "With Acrobat.",
+      "refined_text": "",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Method 2 (Windows Only): Open The File In Its Source",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "For Headings And Styles Indicate The Element Types.",
+      "refined_text": "Type Also indicates whether the element is a heading or style in the Word document.",
+      "page_number": 11
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Mail Merges From Word Generate Documents Like Form Letters—For One Common Example—",
+      "refined_text": "",
+      "page_number": 27
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Show This Number Of Recent Archives (Outlook Only)",
+      "refined_text": "",
+      "page_number": 8
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "section_title": "Open The List Of Printers, And Then Click Properties Or Preferences.)",
+      "refined_text": "",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "section_title": "Font, Font Size",
+      "refined_text": "In Windows, you can determine the font and the size of text in pop-up notes. In Mac OS, you",
+      "page_number": 15
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "section_title": "File Size",
+      "refined_text": "",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "section_title": "Microsoft Office",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Encoding",
+      "refined_text": "",
+      "page_number": 22
+    }
+  ]
+}
