@@ -19,7 +19,7 @@
     ],
     "persona": "HR professional",
     "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
-    "processing_timestamp": "2025-07-28T03:22:31.202368"
+    "processing_timestamp": "2025-07-28T04:43:13.807370"
   },
   "extracted_sections": [
     {
@@ -29,52 +29,52 @@
       "page_number": 11
     },
     {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Set privileges and permissions for others",
+      "importance_rank": 2,
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "License deployment",
+      "importance_rank": 3,
+      "page_number": 17
+    },
+    {
       "document": "Learn Acrobat - Fill and Sign.pdf",
       "section_title": "Fill in PDF Forms",
-      "importance_rank": 2,
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Types of PDF forms",
-      "importance_rank": 3,
-      "page_number": 1
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Save forms",
       "importance_rank": 4,
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Clear unsaved form entries",
-      "importance_rank": 5,
-      "page_number": 14
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Validate all digital signatures",
-      "importance_rank": 6,
       "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "section_title": "Common questions",
+      "importance_rank": 5,
+      "page_number": 15
     },
     {
       "document": "Learn Acrobat - Export_1.pdf",
       "section_title": "PNG format is useful for images that are used on the web.",
-      "importance_rank": 7,
+      "importance_rank": 6,
       "page_number": 9
     },
     {
       "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Create a PDF as an email attachment",
+      "section_title": "Convert a file to PDF using PDFMaker",
+      "importance_rank": 7,
+      "page_number": 13
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Validate all digital signatures",
       "importance_rank": 8,
-      "page_number": 17
+      "page_number": 7
     },
     {
       "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Create PDFs from Word mail merges",
+      "section_title": "Create a PDF as an email attachment",
       "importance_rank": 9,
-      "page_number": 26
+      "page_number": 17
     },
     {
       "document": "Learn Acrobat - Create and Convert_2.pdf",
@@ -83,126 +83,131 @@
       "page_number": 7
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Manage your bulk sends",
-      "importance_rank": 11,
-      "page_number": 16
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Set privileges and permissions for others",
-      "importance_rank": 12,
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Fill and Sign PDF Forms",
-      "importance_rank": 13,
-      "page_number": 0
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Common questions",
-      "importance_rank": 14,
-      "page_number": 15
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Convert a file to PDF using PDFMaker",
-      "importance_rank": 15,
-      "page_number": 13
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "License deployment",
-      "importance_rank": 16,
-      "page_number": 17
-    },
-    {
       "document": "Learn Acrobat - Generative AI_1.pdf",
       "section_title": "Select multiple files",
-      "importance_rank": 17,
+      "importance_rank": 11,
       "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Auto-Complete forms (interactive forms",
-      "importance_rank": 18,
-      "page_number": 9
     },
     {
       "document": "Learn Acrobat - Edit_1.pdf",
       "section_title": "Change, replace, or delete text",
-      "importance_rank": 19,
+      "importance_rank": 12,
       "page_number": 3
     },
     {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Manage your bulk sends",
+      "importance_rank": 13,
+      "page_number": 16
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "section_title": "Fill and Sign PDF Forms",
+      "importance_rank": 14,
+      "page_number": 0
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "section_title": "Signer's experience",
+      "importance_rank": 15,
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "section_title": "Initiate SharePoint-based shared review",
+      "importance_rank": 16,
+      "page_number": 13
+    },
+    {
       "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Create a blank PDF",
+      "section_title": "Using Create PDF cloud service for PDF",
+      "importance_rank": 17,
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "section_title": "Adobe LiveCycle Rights Management",
+      "importance_rank": 18,
+      "page_number": 0
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "section_title": "Convert PDF to PostScript or Encapsulated",
+      "importance_rank": 19,
+      "page_number": 19
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "section_title": "The Ultimate PDF Sharing Checklist",
       "importance_rank": 20,
-      "page_number": 10
+      "page_number": 0
     }
   ],
   "sub_section_analysis": [
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Change flat forms to fillable (Acrobat Pro) You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms. Flat form To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). When you create a different form, redo this task to enable Acrobat Reader users to use the tools.",
+      "refined_text": "When you create a different form, redo this task to enable Acrobat Reader users to use the tools. Change flat forms to fillable (Acrobat Pro) You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Flat form To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms.",
       "page_number": 11
     },
     {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "And best of all, Adobe hosts it securely, so your IT department doesn’t have to do the work of setting up a signature infrastructure. Set privileges and permissions for others • Certify a document while leaving portions of it available for form filling, signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs • Use Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict usage such as printing, editing, or copying What if my organization isn’t prepared to set up certificate- based signatures? Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web contracting. To sign a document with a certificate-based signature, you must obtain a digital ID or create a self-signed digital ID in Acrobat or Acrobat Reader. The digital ID contains a private key and a certificate with a public key, and more.",
+      "page_number": 20
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "Once you assign AI Assistant for Acrobat, the users must restart Acrobat to see AI Assistant. License deployment You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. You can choose to either select the users to assign or create product profiles and assign users to the profiles. As an admin, you must add users to the Admin Console using one of the methods described in Adobe Admin Console users.",
+      "page_number": 17
+    },
+    {
       "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. Fill in interactive forms An interactive form contains fields that you can select or fill in. If necessary, select either the Hand Tool or the Select Tool from the context menu of the page (right-click on the page to open the context menu). For example, the Hand tool changes to an I-beam when you can type text into the form field. Some text fields are dynamic, meaning that they automatically resize to accommodate the amount of data you enter and can span across pages.",
+      "refined_text": "Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. For example, the Hand tool changes to an I-beam when you can type text into the form field. Some text fields are dynamic, meaning that they automatically resize to accommodate the amount of data you enter and can span across pages. Fill in interactive forms An interactive form contains fields that you can select or fill in. If necessary, select either the Hand Tool or the Select Tool from the context menu of the page (right-click on the page to open the context menu).",
       "page_number": 7
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Types of PDF forms • Interactive forms: These contain fields that you can select and fill in. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage. Fill and sign PDF forms To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar.",
-      "page_number": 1
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Save forms • To save the completed form, choose Save As from the hamburger menu (File > Save As in macOS) and rename the file. • To remove extended Acrobat Reader features, choose Save A Copy (File > Save A Copy in macOS). • To allow Acrobat Reader users to save the data they typed, choose one of the following depending upon your operating system: Windows®: Save As Other > Acrobat Reader Extended PDF > Enable More Tools (Includes Form Fill-in & Save) macOS: File > Save As Other > Acrobat Reader Extended PDF > Enable More Tools (Includes Form Fill-in & Save).",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "This document explains how to sign a document or agreement using Acrobat or Reader desktop application. Note: You can also capture a picture of your signature on mobile using Adobe Acrobat Reader mobile app and save it in Adobe cloud storage so that it's synced and available for use across your desktop and other mobile devices. To fill the PDF form with your desired color, from the Quick actions toolbar, select the Color icon and then select a color. To retain the default color of the signature, make sure the Keep signatures black option is unchecked. If you've already added your signature or initials, just select it from the Sign options, and then click at the place in the PDF where you want to add your signature.",
-      "page_number": 14
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "refined_text": "View previous versions of a digitally signed document Whenever a certificate is used to sign a document, a signed version of the PDF is created and saved along with the original PDF. To view previous versions, open the Signature panel and then select Options > View Signed Version. The previous version opens as a new PDF, with the version information and the name of the signer in the title bar. Trust a signer’s certificate To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity Manager. End users can exchange certificates or add them directly from signed documents and set their trust levels.",
-      "page_number": 7
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "refined_text": "It provides centralized license management and enterprise- level technical support for adequate user support at scale. If you can't find the option to request access to a product, your administrator may not have enabled the option for your organization. Administer AI Assistant for enterprises Adobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web, mobile, and desktop platforms. If you have multiple profiles associated with your organization-provided Adobe account, you must first choose which profile to sign in with. What if I can’t find the option to request access to AI Assistant for Acrobat?",
+      "page_number": 15
     },
     {
       "document": "Learn Acrobat - Export_1.pdf",
-      "refined_text": "None creates an image that displays in a web browser only after downloading is complete. Adam7 creates an image that displays low-resolution versions in a browser while the full image file is downloading. Adam7 can make downloading time seem shorter and assures viewers that downloading is in progress; however, it increases file size. • Average: Optimizes the compression of low-level noise by averaging the color values of adjacent pixels. Color management RGB/Grayscale Specifies the type of color management for the output file and whether to embed an ICC profile.",
+      "refined_text": "Adam7 can make downloading time seem shorter and assures viewers that downloading is in progress; however, it increases file size. Color management RGB/Grayscale Specifies the type of color management for the output file and whether to embed an ICC profile. None creates an image that displays in a web browser only after downloading is complete. Adam7 creates an image that displays low-resolution versions in a browser while the full image file is downloading. • Average: Optimizes the compression of low-level noise by averaging the color values of adjacent pixels.",
       "page_number": 9
     },
     {
       "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "For Microsoft Office applications, such as Word, Excel, and PowerPoint, click the Create And Share button on the Acrobat ribbon. Convert files to a secured PDF and attach it to an email message (Outlook) 1. Note: The Attach As Secured Adobe PDF button appears only after you’ve configured an Adobe Experience Manager Document Security using the All tools > Protect a PDF > Set Security Properties > Security Method. Specify the users that can open the PDF, and then click OK: • To specify only users that receive the PDF, select Restrict Access Only To People In This Message’s To:, Cc:, And Bcc: List. • To specify only users that are specified by a security policy, select Restrict Access By Applying The Following Security Policy, and then select a security policy in the list.",
-      "page_number": 17
+      "refined_text": "For Microsoft Office applications such as Word, Excel, and PowerPoint, the options for creating PDFs are available from the Acrobat ribbon. You can use either the toolbar buttons or the Adobe PDF menu (the Action menu in Lotus Notes) to create PDFs, but the menu also provides access to conversion settings. Do one of the following: • If PDFMOutlook or Acrobat PDFMaker Office COM Add-in isn't listed, choose COM Add-Ins from the Manage pop-up menu and select Go. • If PDFMOutlook or Acrobat PDFMaker Office COM Add-in is listed under Disabled Application Add-ins, select Disabled Items from the Manage pop-up menu and select Go. In the dialog box that appears, choose Toolbar > Toolbars, and select the Visible option for Acrobat PDFMaker.",
+      "page_number": 13
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "Create PDFs from Word mail merges Mail merges from Word generate documents like form letters—for one common example— that are personalized with information like the names and addresses of the recipients. In Microsoft Word, open the template that you have created as the basis of your mail merge, or create the file using the Word Mail Merge toolbar and Mail Merge wizard, as needed. Instead, set up and preview the mail merge as usual, so that you can verify that the merge will work correctly. • To name the PDF that will be created, type in the Specify PDF File Name box. For Automatically Send Adobe PDF Files By Email, do one of the following: • To create and save merged PDFs for printing or sending later in email, leave the option deselected, and click OK. • To create merged PDFs and attach each one to an email message to the appropriate recipient, select this check box, and fill in the other Email options.",
-      "page_number": 26
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "refined_text": "Embed Index For Faster Search Creates an embedded index, which speeds up searches, especially when you convert large numbers of email messages or message folders. Block Download Of External Content When selected, prevents the downloading of any external Internet content, such as images, CSS, and JavaScript. Show This Number Of Recent Archives (Outlook only) When converting email messages and folders, the Adobe PDF > [Convert Selected Messages and Convert Selected Folders] menus can list recently created PDFs to append. AutoCAD-specific options on the Settings tab (Acrobat Pro) The following options appear when you open the PDFMaker settings from within Autodesk AutoCAD. Do Not Convert Model Space To 3D When selected, the model space layout is not converted to a 3D annotation in the PDF.",
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "End users can exchange certificates or add them directly from signed documents and set their trust levels. To view previous versions, open the Signature panel and then select Options > View Signed Version. Trust a signer’s certificate To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity Manager. View previous versions of a digitally signed document Whenever a certificate is used to sign a document, a signed version of the PDF is created and saved along with the original PDF. The previous version opens as a new PDF, with the version information and the name of the signer in the title bar.",
       "page_number": 7
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "Select Bulk Sends in the list of Your documents on the left side of the window. Single-click the Bulk Send you to want to access, opening the context menu on the right side of the window. The context menu on the right side contains five distinct sections: • Metadata (red square): At the top of the menu is the metadata for the Bulk Send template: • Image of the Bulk Sends' first page • The title of the Bulk Send • The date the Bulk Send was sent to the participants • The email value of the userID that created the Bulk Send • The current status of the whole Bulk Send • The Message provided in the initial email",
-      "page_number": 16
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "refined_text": "For Microsoft Office applications, such as Word, Excel, and PowerPoint, click the Create And Share button on the Acrobat ribbon. • To specify only users that are specified by a security policy, select Restrict Access By Applying The Following Security Policy, and then select a security policy in the list. Specify the users that can open the PDF, and then click OK: • To specify only users that receive the PDF, select Restrict Access Only To People In This Message’s To:, Cc:, And Bcc: List. Note: The Attach As Secured Adobe PDF button appears only after you’ve configured an Adobe Experience Manager Document Security using the All tools > Protect a PDF > Set Security Properties > Security Method. Convert files to a secured PDF and attach it to an email message (Outlook) 1.",
+      "page_number": 17
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "refined_text": "Block Download Of External Content When selected, prevents the downloading of any external Internet content, such as images, CSS, and JavaScript. AutoCAD-specific options on the Settings tab (Acrobat Pro) The following options appear when you open the PDFMaker settings from within Autodesk AutoCAD. Embed Index For Faster Search Creates an embedded index, which speeds up searches, especially when you convert large numbers of email messages or message folders. Do Not Convert Model Space To 3D When selected, the model space layout is not converted to a 3D annotation in the PDF. Choose Layout Option Specifies whether Current Layout, All Layouts, or Selected Layouts are included in the PDF.",
+      "page_number": 7
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "refined_text": "• While the AI Assistant generates the response, you can pause the processing anytime by selecting Stop. • Move the drag handle left or right to adjust the AI Assistant pane size for better readability. • To remove a file from the Collection, select View and manage files in chat, then Remove file from chat. You can do the following: • Select a number to navigate directly to the corresponding section of the document. Select multiple files Acrobat creates a collection of the selected files and opens the document.",
+      "page_number": 10
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "refined_text": "You can also try the advanced format options, such as line spacing, character spacing, horizontal scaling, stroke width, and color. You can create lists and, conversely, convert a list item to a paragraph or change list types. Manage list items using the list controls (bulleted and numbered) in the left Format panel. Change, replace, or delete text When you edit text, the text in the paragraph reflows within its text box to accommodate the changes. To rotate the text box, use the rotation handle at the top of the selected text box.",
+      "page_number": 3
     },
     {
       "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "Set privileges and permissions for others • Certify a document while leaving portions of it available for form filling, signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs • Use Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict usage such as printing, editing, or copying What if my organization isn’t prepared to set up certificate- based signatures? And best of all, Adobe hosts it securely, so your IT department doesn’t have to do the work of setting up a signature infrastructure. Resources Adobe Approved Trust List (AATL): The Adobe Approved Trust List is a program that allows millions of users worldwide to create digital signatures that are trusted whenever the signed document is opened in Acrobat or Reader software. It can be easily verified and informs recipients whether the document was modified after the signer initially signed it. To sign a document with a certificate-based signature, you must obtain a digital ID or create a self-signed digital ID in Acrobat or Acrobat Reader.",
-      "page_number": 20
+      "refined_text": "Single-click the Bulk Send you to want to access, opening the context menu on the right side of the window. The context menu on the right side contains five distinct sections: • Metadata (red square): At the top of the menu is the metadata for the Bulk Send template: • Image of the Bulk Sends' first page • The title of the Bulk Send • The date the Bulk Send was sent to the participants • The email value of the userID that created the Bulk Send • The current status of the whole Bulk Send • The Message provided in the initial email Select Bulk Sends in the list of Your documents on the left side of the window.",
+      "page_number": 16
     },
     {
       "document": "Learn Acrobat - Fill and Sign.pdf",
@@ -210,39 +215,34 @@
       "page_number": 0
     },
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "refined_text": "If you have multiple profiles associated with your organization-provided Adobe account, you must first choose which profile to sign in with. What if I can’t find the option to request access to AI Assistant for Acrobat? If you can't find the option to request access to a product, your administrator may not have enabled the option for your organization. Administer AI Assistant for enterprises Adobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web, mobile, and desktop platforms. It provides centralized license management and enterprise- level technical support for adequate user support at scale.",
-      "page_number": 15
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "refined_text": "Send in bulk allows you to upload a form and use that as a template to create and send many (hundreds!) To access the Send in bulk feature, do one of the following: • In the Acrobat desktop app, go to the Tools center, scroll down to the E-Sign section, and then select Send in bulk. Additionally, the sender can export the field-level data of all completed agreements in a CSV format using the Download Form Field Data action. • Sign in to Acrobat online, select the E-Sign menu in the top navigation bar, and then select Send in bulk. Also, if the signer uses Acrobat or Acrobat Reader desktop application, the signer sees a notification that an agreement has been shared for signing.",
+      "page_number": 7
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "You can use either the toolbar buttons or the Adobe PDF menu (the Action menu in Lotus Notes) to create PDFs, but the menu also provides access to conversion settings. For Microsoft Office applications such as Word, Excel, and PowerPoint, the options for creating PDFs are available from the Acrobat ribbon. In the dialog box that appears, choose Toolbar > Toolbars, and select the Visible option for Acrobat PDFMaker. Do one of the following: • If PDFMOutlook or Acrobat PDFMaker Office COM Add-in isn't listed, choose COM Add-Ins from the Manage pop-up menu and select Go. • If PDFMOutlook or Acrobat PDFMaker Office COM Add-in is listed under Disabled Application Add-ins, select Disabled Items from the Manage pop-up menu and select Go.",
+      "document": "Learn Acrobat - Share_1.pdf",
+      "refined_text": "Now, to host the shared review, you can do one of the following: • Let Acrobat automatically create and configure a document library within your SharePoint server’s subsite. To save this shared review profile for future use, provide a name and then click Next, or click Next to use the default. Choose SharePoint subsite, and then provide the URL of your subsite on the SharePoint server. Acrobat automatically creates and configures a new document library (named AcrobatSharedReviews) within your subsite to initiate the shared review. Note: If you don't want Acrobat to automatically configure the review, you can click Choose a subsite to select the document library that you have already created and configured.",
       "page_number": 13
     },
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "refined_text": "License deployment You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. As an admin, you must add users to the Admin Console using one of the methods described in Adobe Admin Console users. You can choose to either select the users to assign or create product profiles and assign users to the profiles. Once you assign AI Assistant for Acrobat, the users must restart Acrobat to see AI Assistant.",
-      "page_number": 17
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "refined_text": "Select multiple files Acrobat creates a collection of the selected files and opens the document. You can do the following: • Select a number to navigate directly to the corresponding section of the document. • While the AI Assistant generates the response, you can pause the processing anytime by selecting Stop. • Move the drag handle left or right to adjust the AI Assistant pane size for better readability. • To remove a file from the Collection, select View and manage files in chat, then Remove file from chat.",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Auto-Complete forms (interactive forms only) The Auto-Complete feature stores any entries that you type in an interactive form field. Auto- Complete then suggests or even automatically enters responses that match your typing in other form fields. The Auto-Complete feature is off by default, so you must enable it in the forms preferences if you want to use it. Note: The forms preferences apply to the way that the application handles open forms as you work. Select Remember Numerical Data if you want the Auto-Complete memory to store numbers that you type into forms.",
-      "page_number": 9
-    },
-    {
-      "document": "Learn Acrobat - Edit_1.pdf",
-      "refined_text": "Change, replace, or delete text When you edit text, the text in the paragraph reflows within its text box to accommodate the changes. To rotate the text box, use the rotation handle at the top of the selected text box. Manage list items using the list controls (bulleted and numbered) in the left Format panel. You can create lists and, conversely, convert a list item to a paragraph or change list types. You can also try the advanced format options, such as line spacing, character spacing, horizontal scaling, stroke width, and color.",
-      "page_number": 3
-    },
-    {
       "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "Create a blank PDF You can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning. For longer, more complex, or heavily formatted documents, it’s better to create the source document in an application that offers more layout and formatting options, such as Adobe InDesign or Microsoft Word. • Select the hamburger menu > Create > Blank Page (Windows), or File > Create > Blank Page (macOS).",
-      "page_number": 10
+      "refined_text": "They also include link recognition so that hyperlinks, internal document links, and tables of contents are created as live links. Using Create PDF cloud service for PDF conversion Acrobat provides an option to use Adobe Create PDF cloud service in addition to a local conversion to convert Microsoft Word documents to PDFs.",
+      "page_number": 12
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "refined_text": "Digital signatures are a secure and efficient way to electronically sign and authenticate documents, ensuring their authenticity and integrity. By using digital signatures, you can sign documents quickly and easily, and be confident that they can’t be tampered with or forged. Use ALCRM servers to set permissions for separate document tasks, for example opening, editing, and printing. Adobe LiveCycle Rights Management (ALCRM) servers Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to control access to documents. When you receive a signed document, you may want to validate its signature to verify the signer and the signed content.",
+      "page_number": 0
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "refined_text": "Note: If you create EPS files for separations in Acrobat Pro, all image color spaces should be CMYK. You can also create an EPS file from any PDF for placement or opening in other applications. In the Save as dialog, select a location where you want to save the file and then select Save. Convert PDF to PostScript or Encapsulated PostScript (EPS) You can export a PDF to PostScript for printing and prepress applications. The PostScript file includes full DSC (Document Structuring Conventions) comments and other advanced information preserved by Adobe Acrobat Distiller.",
+      "page_number": 19
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "refined_text": "Whether you're collaborating on a project, seeking feedback, or simply distributing information, this checklist will ensure you cover all the bases. • Choose Your Sharing Method • Are you sharing via email, link, or a third-party app like Microsoft Teams or WhatsApp? • Create and Share the Link • Did you generate a shareable link and copy it for distribution? • Customize Your Message • Have you added a personal touch to the subject and message fields? General Sharing Checklist • Open Your PDF • Have you launched Acrobat or Acrobat Reader and opened the PDF you want to share?",
+      "page_number": 0
     }
   ]
 }
