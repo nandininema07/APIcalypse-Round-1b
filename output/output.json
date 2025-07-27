@@ -1,1273 +1,1097 @@
 {
   "metadata": {
     "input_documents": [
-      "Learn Acrobat - Create and Convert_1.pdf",
-      "Learn Acrobat - Create and Convert_2.pdf",
-      "Learn Acrobat - Edit_1.pdf",
-      "Learn Acrobat - Edit_2.pdf",
-      "Learn Acrobat - Export_1.pdf",
-      "Learn Acrobat - Export_2.pdf",
-      "Learn Acrobat - Fill and Sign.pdf",
-      "Learn Acrobat - Generative AI_1.pdf",
-      "Learn Acrobat - Generative AI_2.pdf",
-      "Learn Acrobat - Request e-signatures_1.pdf",
-      "Learn Acrobat - Request e-signatures_2.pdf",
-      "Learn Acrobat - Share_1.pdf",
-      "Learn Acrobat - Share_2.pdf",
-      "Test Your Acrobat Exporting Skills.pdf",
-      "The Ultimate PDF Sharing Checklist.pdf"
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
     ],
-    "persona": "HR professional",
-    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
     "context_keywords": [
-      "professional",
-      "create",
-      "manage",
-      "fillable",
-      "forms",
-      "onboarding",
-      "compliance"
+      "travel",
+      "planner",
+      "plan",
+      "trip",
+      "days",
+      "group",
+      "college",
+      "friends"
     ],
-    "processing_timestamp": "2025-07-27T02:55:49.347542",
-    "total_sections_processed": 95
+    "processing_timestamp": "2025-07-27T18:01:24.566106",
+    "total_sections_processed": 82
   },
   "extracted_sections": [
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Fill In Interactive Forms",
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Planning, And Exploring",
       "importance_rank": 1,
-      "page_number": 8,
-      "heading_level": 1
+      "page_number": 1,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Create A Pdf Using The Print Command (Windows)",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Comprehensive Guide To Restaurants And Hotels In The South Of France",
       "importance_rank": 2,
-      "page_number": 12,
-      "heading_level": 1
+      "page_number": 1,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Create A Pdf As An Email Attachment",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Comprehensive Guide To Major Cities In The South Of France",
       "importance_rank": 3,
-      "page_number": 18,
-      "heading_level": 1
+      "page_number": 1,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "What’S The Best Way To Create A Pdf?",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "A Culinary Journey Through The South Of France",
       "importance_rank": 4,
-      "page_number": 2,
-      "heading_level": 1
+      "page_number": 1,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "You Can Change A Flat Form To A Fillable Form By Either Using The Prepare Form Tool Or",
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Spring (March To May)",
       "importance_rank": 5,
-      "page_number": 12,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "The Forms Preferences Apply To The Way That The Application Handles Open Forms As You Work.",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Nice: The Jewel Of The French Riviera",
       "importance_rank": 6,
-      "page_number": 10,
+      "page_number": 5,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Creates An Embedded Index, Which Speeds Up Searches, Especially When You Convert Large",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Language",
       "importance_rank": 7,
-      "page_number": 8,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Excel Files To Pdf",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Religious And Spiritual Traditions",
       "importance_rank": 8,
-      "page_number": 22,
-      "heading_level": 1
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Certifying And Signing Documents",
-      "importance_rank": 9,
-      "page_number": 23,
-      "heading_level": 1
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Automatically. Type Your Text To Fill The Field.",
-      "importance_rank": 10,
-      "page_number": 15,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Includes Full Dsc (Document Structuring Conventions) Comments And Other Advanced",
-      "importance_rank": 11,
-      "page_number": 20,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Convert Pdf To Xml 1.0",
-      "importance_rank": 12,
-      "page_number": 22,
-      "heading_level": 1
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Or, Select The Hamburger Menu (Windows) Or",
-      "importance_rank": 13,
       "page_number": 4,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Format, Or Export Images In A Pdf To Another Format.",
-      "importance_rank": 14,
+      "document": "South of France - Cities.pdf",
+      "section_title": "Marseille: The Oldest City In France",
+      "importance_rank": 9,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Marseille: The Oldest City In France",
+      "importance_rank": 10,
       "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Or, Select The Hamburger Menu (Windows) Or",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "A Comprehensive Guide To Traditions And Culture In The South Of France",
+      "importance_rank": 11,
+      "page_number": 1,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites In Nîmes",
+      "importance_rank": 12,
+      "page_number": 5,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Family-Friendly Restaurants",
+      "importance_rank": 13,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Traditional Sports And Games",
+      "importance_rank": 14,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Folk Music",
       "importance_rank": 15,
       "page_number": 5,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "Specify The Maximum File Size For Each Document In The Split.",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Course Camarguaise",
       "importance_rank": 16,
-      "page_number": 6,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Depending On The Type Of File Being Converted, The Authoring Applica�On Opens",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Overview Of The Region",
       "importance_rank": 17,
-      "page_number": 8,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Converts Certain Elements In Original Office Documents To Pdf Bookmarks: Word Headings,",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Budget-Friendly Restaurants",
       "importance_rank": 18,
-      "page_number": 6,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Rgb/Grayscale",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Transhumance Festivals",
       "importance_rank": 19,
-      "page_number": 10,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Rgb/Cmyk/Grayscale",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes",
       "importance_rank": 20,
-      "page_number": 9,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Convert Pdf To Jpeg Or Jpeg 2000",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Displays Attract Visitors From All Over The World.",
       "importance_rank": 21,
-      "page_number": 24,
-      "heading_level": 1
+      "page_number": 2,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "File Format Op�Ons For Pdf Export In Acrobat",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Types Of Food",
       "importance_rank": 22,
-      "page_number": 8,
-      "heading_level": 1
+      "page_number": 2,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Set The Trust Level Of A Certificate",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Lavender Products",
       "importance_rank": 23,
       "page_number": 4,
-      "heading_level": 1
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Convert Email Folders To A New Pdf",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Sausage, And Duck Or Pork. Cassoulet Is A Labor Of Love, Requiring Hours Of Slow",
       "importance_rank": 24,
-      "page_number": 25,
-      "heading_level": 1
+      "page_number": 3,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Clear Chat History",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Wine And Vineyards",
       "importance_rank": 25,
-      "page_number": 2,
-      "heading_level": 1
+      "page_number": 3,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Adobe Pdf Printing Preferences (Windows)",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Testament To The Region'S Love For Fresh, Seasonal Produce.",
       "importance_rank": 26,
-      "page_number": 14,
-      "heading_level": 1
+      "page_number": 3,
+      "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Export_2.pdf",
-      "section_title": "Take A Snapshot Of A Page",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Christmas Traditions",
       "importance_rank": 27,
-      "page_number": 3,
-      "heading_level": 1
-    },
-    {
-      "document": "The Ultimate PDF Sharing Checklist.pdf",
-      "section_title": "Collaborating On A Project, Seeking Feedback, Or Simply Distributing",
-      "importance_rank": 28,
-      "page_number": 1,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Read-Aloud Generated Responses",
-      "importance_rank": 29,
       "page_number": 4,
-      "heading_level": 1
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Store Certificates On Directory Servers",
-      "importance_rank": 30,
-      "page_number": 27,
-      "heading_level": 1
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Particular Order For Signing, Toggle The Switch To Complete In Any Order.",
-      "importance_rank": 31,
-      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Alternatively, From Acrobat Home, Select See All Tools. In The Protect Section,",
-      "importance_rank": 32,
-      "page_number": 22,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "For Instance, Companies In The European Union Who Need To Comply With Advanced Or",
-      "importance_rank": 33,
-      "page_number": 20,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Determine The Type You Should Choose To Sign Your Document. (See Signature Types.)",
-      "importance_rank": 34,
-      "page_number": 25,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Select Next, And Then Select Finish.",
-      "importance_rank": 35,
-      "page_number": 27,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Commenting Preferences",
-      "importance_rank": 36,
-      "page_number": 15,
-      "heading_level": 1
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "The Pdf Optimizer Lets You Change The Compatibility Version Of Your Pdfs So They Can Be",
-      "importance_rank": 37,
-      "page_number": 8,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Menu Next To Microsoft Excel, Select The Format You Want Your Excel To Be. You",
-      "importance_rank": 38,
-      "page_number": 18,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Extended Pdf.",
-      "importance_rank": 39,
-      "page_number": 10,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "You Can Sign Component Pdfs Within A Pdf Portfolio, Or Sign The Pdf Portfolio As A Whole.",
-      "importance_rank": 40,
-      "page_number": 9,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "The Component Pdfs, You Can Sign The Entire Pdf Portfolio To Finalize It. Alternatively, You Can",
-      "importance_rank": 41,
-      "page_number": 9,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "From Ldap Directories.",
-      "importance_rank": 42,
-      "page_number": 1,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Pdf To Tiff Conversion Settings",
-      "importance_rank": 43,
-      "page_number": 11,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "When You Apply A Certificate-Based Signature, Acrobat Uses A Hashing Algorithm To Generate A",
-      "importance_rank": 44,
-      "page_number": 22,
-      "heading_level": 2
-    },
-    {
-      "document": "The Ultimate PDF Sharing Checklist.pdf",
-      "section_title": "The Ultimate Pdf Sharing Checklist",
-      "importance_rank": 45,
-      "page_number": 1,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Appropriate File Type And Follow Through The Steps.",
-      "importance_rank": 46,
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Carnival Of Nice",
+      "importance_rank": 28,
       "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Specify The Reason For Signing The Document, The Location, And Your Contact",
-      "importance_rank": 47,
-      "page_number": 26,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "With Predefined Categories Using Named Entity Recognition, E.G., Replacing “John",
-      "importance_rank": 48,
+      "document": "South of France - Cities.pdf",
+      "section_title": "Unique Architectural Gem In Nice.",
+      "importance_rank": 29,
       "page_number": 5,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Certify Options Provide A Higher Level Of Document Control Than Digitally Sign. For Documents",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Jazz Manouche",
+      "importance_rank": 30,
+      "page_number": 5,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cultural Highlights",
+      "importance_rank": 31,
+      "page_number": 8,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Overlooking The Sea Adds To The Overall Dining Experience.",
+      "importance_rank": 32,
+      "page_number": 4,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cuisine, Wines, And Vibrant Cultural Scene.",
+      "importance_rank": 33,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cultural Highlights",
+      "importance_rank": 34,
+      "page_number": 7,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Socca To Shine Through.",
+      "importance_rank": 35,
+      "page_number": 4,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Avignon: The City Of Popes",
+      "importance_rank": 36,
+      "page_number": 4,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Nice: The Jewel Of The French Riviera",
+      "importance_rank": 37,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Roman Colony And Has Since Evolved Into A Glamorous Resort Town.",
+      "importance_rank": 38,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Olive Oil, And Daube, A Slow-Cooked Beef Stew With Red Wine And Vegetables.",
+      "importance_rank": 39,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Course Showcasing The Region'S Finest Ingredients.",
+      "importance_rank": 40,
+      "page_number": 4,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Pottery And Ceramics",
+      "importance_rank": 41,
+      "page_number": 4,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cultural Highlights",
+      "importance_rank": 42,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites In Toulouse",
+      "importance_rank": 43,
+      "page_number": 7,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites In Avignon",
+      "importance_rank": 44,
+      "page_number": 4,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Shaded Pathways.",
+      "importance_rank": 45,
+      "page_number": 5,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Cuisine",
+      "importance_rank": 46,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nightlife And Entertainment",
+      "importance_rank": 47,
+      "page_number": 11,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Festivals And Events",
+      "importance_rank": 48,
+      "page_number": 6,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Unique Dining Experience With A Focus On Fresh, Local Ingredients And Innovative",
       "importance_rank": 49,
-      "page_number": 24,
+      "page_number": 4,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "And Markups In Pdfs.",
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Culinary Delights",
       "importance_rank": 50,
-      "page_number": 15,
+      "page_number": 5,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Similarities, Differences, And Key Patterns. With Ai Assistant, You Can Make Targeted Requests,",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Caramelized Onions, Olives, And Anchovies.",
       "importance_rank": 51,
       "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Primary Question. Ai Assistant Uses The Latest Ai Language Model, Gpt 4O, To Provide More",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "That The Seafood Is Always Fresh And Flavorful.",
       "importance_rank": 52,
       "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Corresponding Data File To Output Mail Merges Directly To Pdf. You Can Even Set Up Pdfmaker To",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Spot For Families.",
       "importance_rank": 53,
-      "page_number": 27,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Limited Time Because Certificates Related To The Signature Eventually Expire Or Are Revoked.",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Spot For A Family Meal.",
       "importance_rank": 54,
-      "page_number": 10,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Using Ai Assistant In Acrobat Mobile",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Generous Servings Make It A Must-Visit.",
       "importance_rank": 55,
-      "page_number": 26,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "You Must Sign In To The Zoom Web Portal To Access The Zoom Meeting Information. Then,",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Crowds Are Smaller.",
       "importance_rank": 56,
-      "page_number": 15,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "You Can Split One Or More Pdfs Into Multiple Smaller Pdfs. When Splitting A Pdf, You Can",
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Outdoor Activities",
       "importance_rank": 57,
-      "page_number": 6,
+      "page_number": 4,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "The Generative Ai Features Are Only Available In English For Users With Individual Or Teams",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Setting And Friendly Staff Ensure A Pleasant Dining Experience For Families.",
       "importance_rank": 58,
-      "page_number": 6,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "The Button To Place The Detected Form Fields In The Pdf Document. Alternatively,",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Riviera. The Elegant Setting And Impeccable Service Make It A Memorable Dining",
       "importance_rank": 59,
-      "page_number": 6,
+      "page_number": 4,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Layers In The Resulting Pdf, Or You Can Flatten The Layers. You Can Also Organize The Visio Layers",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Relaxed Meal.",
       "importance_rank": 60,
-      "page_number": 1,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Data Action.",
+      "document": "South of France - History.pdf",
+      "section_title": "Stroll Along The Coast.",
       "importance_rank": 61,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Reflects The Influence Of Russian Aristocrats Who Vacationed In Nice.",
+      "importance_rank": 62,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Dishes In A Lively Setting. The Fresh Oysters Are A Must-Try.",
+      "importance_rank": 63,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Old Port. It Now Houses Part Of The Museum Of European And Mediterranean",
+      "importance_rank": 64,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Casual Meal.",
+      "importance_rank": 65,
+      "page_number": 2,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Tips And Tricks For Packing",
+      "importance_rank": 66,
       "page_number": 8,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Roaming Ids Can Be Stored On A Server. Acrobat Includes A Default Signature Handler That Can",
-      "importance_rank": 62,
-      "page_number": 27,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Pdfmaker Conversion Settings Vary According To File Types. For Example, The Options Available",
-      "importance_rank": 63,
-      "page_number": 20,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Edit_1.pdf",
-      "section_title": "Then Drag The Image To The Desired Location.",
-      "importance_rank": 64,
-      "page_number": 14,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Select Add Initials. Your Initials Appear In The Field.",
-      "importance_rank": 65,
-      "page_number": 7,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "When You Convert Your Visio File, Only Shapes And Guides That Are Printable And Visible In The",
-      "importance_rank": 66,
-      "page_number": 29,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Signature Styles; Click Change Style To View A Different Style.",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Exhibits And Interactive Displays.",
       "importance_rank": 67,
-      "page_number": 17,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "The Command Is Unavailable If The Signature Is Invalid, Or Is Signed With A Self-Signed",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Portions Make It A Great Spot For A Casual Meal.",
       "importance_rank": 68,
-      "page_number": 11,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "In Many Authoring Applications, You Can Use The Print Command With The Adobe Pdf Printer To",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "(Vermentino) And Clairette For Whites.",
       "importance_rank": 69,
-      "page_number": 12,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Share_1.pdf",
-      "section_title": "Want To Share The File With.",
-      "importance_rank": 70,
-      "page_number": 11,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Open A File In The Application?",
-      "importance_rank": 71,
       "page_number": 5,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "The Following:",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Cater To All Ages.",
+      "importance_rank": 70,
+      "page_number": 3,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Delicious Snack. Chez Pipo Has Been Serving Socca Since 1923 And Is A Beloved",
+      "importance_rank": 71,
+      "page_number": 4,
+      "heading_level": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Opera House.",
       "importance_rank": 72,
-      "page_number": 28,
+      "page_number": 4,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Edit_1.pdf",
-      "section_title": "The Color You Want Your Text To Change Into.",
+      "document": "South of France - Cities.pdf",
+      "section_title": "The 18Th Century.",
       "importance_rank": 73,
-      "page_number": 10,
+      "page_number": 5,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Share_1.pdf",
-      "section_title": "Use @Mention In Your Personal Commenting Notes To Start A Review. The @Mentions Includes",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Built In The 19Th Century, It Is A Symbol Of The City'S Maritime Heritage.",
       "importance_rank": 74,
-      "page_number": 12,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Or Select An Image Of Your Signature.",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Dishes. The Stunning Views Of The Mediterranean Add To The Allure.",
       "importance_rank": 75,
-      "page_number": 17,
+      "page_number": 4,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "The Acrobat Pdfmaker Conversion Settings Dialog Box Contains The Option That Determines",
+      "document": "South of France - History.pdf",
+      "section_title": "Beautiful Cloister And The Relics Of Saint Thomas Aquinas.",
       "importance_rank": 76,
-      "page_number": 23,
+      "page_number": 7,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "Use The Correct Font And Formatting. When Editing The Document, Ensure That The Font And",
+      "document": "South of France - Cities.pdf",
+      "section_title": "You Can Find Fresh Produce, Flowers, And Local Delicacies.",
       "importance_rank": 77,
-      "page_number": 14,
+      "page_number": 5,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "Document Area.",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Dishes. The Relaxed Setting And Fresh Ingredients Make It A Popular Choice.",
       "importance_rank": 78,
-      "page_number": 10,
+      "page_number": 3,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Pop-Up Opacity",
+      "document": "South of France - History.pdf",
+      "section_title": "Count Of Monte Cristo\"1.",
       "importance_rank": 79,
-      "page_number": 15,
+      "page_number": 2,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "By Dragging A Handle. The Knee Line Can Be Resized In One Direction Only; Horizontal Knee Lines",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Dates Back To The 12Th Century And Features A Gilded Statue Of The Virgin Mary.",
       "importance_rank": 80,
-      "page_number": 12,
+      "page_number": 7,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Expands Vertically As You Type So That All Text Remains Visible.",
+      "document": "South of France - History.pdf",
+      "section_title": "Dates Back To The 12Th Century And Features A Gilded Statue Of The Virgin Mary.",
       "importance_rank": 81,
-      "page_number": 12,
+      "page_number": 4,
       "heading_level": 2
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Substituted With A Close Match Or Default Font.",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "And Onions, Seasoned With Herbs De Provence. Ratatouille Can Be Served As A Main",
       "importance_rank": 82,
-      "page_number": 28,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "May Look Different When Opened In Acrobat. This Can Happen If The Images Have A Color",
-      "importance_rank": 83,
-      "page_number": 9,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "The Chat History Might Still Contain Content From Documents You'Ve Removed From A",
-      "importance_rank": 84,
-      "page_number": 7,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Of The Markup To Indicate The Presence Of Text In The Pop-Up Note.",
-      "importance_rank": 85,
-      "page_number": 10,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "With Acrobat.",
-      "importance_rank": 86,
-      "page_number": 15,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Method 2 (Windows Only): Open The File In Its Source",
-      "importance_rank": 87,
       "page_number": 3,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "For Headings And Styles Indicate The Element Types.",
-      "importance_rank": 88,
-      "page_number": 11,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Mail Merges From Word Generate Documents Like Form Letters—For One Common Example—",
-      "importance_rank": 89,
-      "page_number": 27,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Show This Number Of Recent Archives (Outlook Only)",
-      "importance_rank": 90,
-      "page_number": 8,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Open The List Of Printers, And Then Click Properties Or Preferences.)",
-      "importance_rank": 91,
-      "page_number": 12,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Font, Font Size",
-      "importance_rank": 92,
-      "page_number": 15,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "File Size",
-      "importance_rank": 93,
-      "page_number": 7,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Microsoft Office",
-      "importance_rank": 94,
-      "page_number": 3,
-      "heading_level": 2
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Encoding",
-      "importance_rank": 95,
-      "page_number": 22,
       "heading_level": 2
     }
   ],
   "sub_section_analysis": [
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Fill In Interactive Forms",
-      "refined_text": "An interactive form contains fields that you can select or fill in. the page (right-click on the page to open the context menu).",
-      "page_number": 8
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Planning, And Exploring",
+      "refined_text": "Introduction Planning a trip to the South of France requires thoughtful preparation to ensure a comfortable and enjoyable experience. This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip.",
+      "page_number": 1
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Create A Pdf Using The Print Command (Windows)",
-      "refined_text": "setting. (In some applications, you may need to click Setup in the Print dialog box to",
-      "page_number": 12
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Comprehensive Guide To Restaurants And Hotels In The South Of France",
+      "refined_text": "Introduction The South of France, known for its stunning landscapes, rich cultural heritage, and exquisite cuisine, is a dream destination for travelers. From the glamorous beaches of the French Riviera to the charming villages of Provence, this region offers a diverse array of experiences. Whether you're looking for budget-friendly options, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect restaurants and hotels for your trip.",
+      "page_number": 1
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Create A Pdf As An Email Attachment",
-      "refined_text": "",
-      "page_number": 18
+      "document": "South of France - Cities.pdf",
+      "section_title": "Comprehensive Guide To Major Cities In The South Of France",
+      "refined_text": "Introduction The South of France, known for its stunning landscapes, Mediterranean coastline, and rich cultural heritage, is home to some of the most beautiful and historically significant cities in the country. This guide provides an in-depth look at the major cities in the South of France, detailing their history, key attractions, cultural highlights, and unique characteristics. Whether you're planning a visit or simply want to learn more about this enchanting region, this guide",
+      "page_number": 1
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "What’S The Best Way To Create A Pdf?",
-      "refined_text": "",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "A Culinary Journey Through The South Of France",
+      "refined_text": "Introduction The South of France, known for its stunning landscapes and charming villages, is also a paradise for food lovers. The region's cuisine is a delightful blend of Mediterranean flavors, fresh ingredients, and traditional recipes passed down through generations. This guide will take you through the different types of food, famous dishes, must-visit restaurants, renowned wine regions, and the types of wines they produce to help you plan an unforgettable culinary adventure.",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Spring (March To May)",
+      "refined_text": "days. Consider packing a lightweight scarf for cooler evenings. Summer (June to August) sundresses, and swimwear. and seek shade during peak sun hours. Pack a cooling towel to help manage the heat.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Nice: The Jewel Of The French Riviera",
+      "refined_text": "Its history dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a Roman colony and has since evolved into a glamorous resort town. In the 19th century, Nice became a favorite winter retreat for European aristocrats, which contributed to its development as a luxurious destination.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Language",
+      "refined_text": "The Provençal language, also known as Occitan, has been a significant part of the cultural identity of the South of France. Efforts to revive and promote the language continue, with festivals and educational programs dedicated to its preservation. Literature and Poetry The South of France has inspired many writers and poets over the centuries. The troubadours of the medieval period, who composed and performed lyrical poetry, were particularly influential. The region's literary heritage also includes famous authors like Marcel Pagnol, whose novels and plays vividly",
       "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "You Can Change A Flat Form To A Fillable Form By Either Using The Prepare Form Tool Or",
-      "refined_text": "enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "The Forms Preferences Apply To The Way That The Application Handles Open Forms As You Work.",
-      "refined_text": "",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Creates An Embedded Index, Which Speeds Up Searches, Especially When You Convert Large",
-      "refined_text": "",
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Excel Files To Pdf",
-      "refined_text": "When creating a PDF from Microsoft Word, PowerPoint, or Excel, you can set conversion options for the current file. You can also select a range of content in the file to convert. The",
-      "page_number": 22
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Certifying And Signing Documents",
-      "refined_text": "The Use a certificate tool lets you apply two types of certificate-based signatures. You can Certify a document, attest to its content or approve a document with the Digitally sign option.",
-      "page_number": 23
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Automatically. Type Your Text To Fill The Field.",
-      "refined_text": "To fill the PDF form with your desired color, from the Quick actions toolbar, select the Color",
-      "page_number": 15
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Includes Full Dsc (Document Structuring Conventions) Comments And Other Advanced",
-      "refined_text": "information preserved by Adobe Acrobat Distiller. You can also create an EPS file from any PDF",
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Convert Pdf To Xml 1.0",
-      "refined_text": "To export a file in XML format, go to All Tools > Export a PDF. Select other format, then the",
-      "page_number": 22
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Or, Select The Hamburger Menu (Windows) Or",
-      "refined_text": "the File menu (macOS) > Create > PDF from clipboard and follow through the workflow.",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Religious And Spiritual Traditions",
+      "refined_text": "The town of Lourdes, located in the Pyrenees, is one of the most famous, attracting millions of visitors each year. Pilgrims come to Lourdes to visit the Sanctuary of Our Lady of Lourdes, where the Virgin Mary is said to have appeared to a young girl in 1858. The town of Saintes-Maries-de-la-Mer is another significant pilgrimage site, particularly for the Romani community, who venerate",
       "page_number": 4
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Format, Or Export Images In A Pdf To Another Format.",
-      "refined_text": "Adobe Acrobat Reader users can save a copy of a PDF or PDF Portfolio if the creator of the document has enabled usage rights. If a document has additional or restricted usage rights,",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Marseille: The Oldest City In France",
+      "refined_text": "History Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic location on the Mediterranean coast made it a vital trading port throughout history. Over the centuries, Marseille has been influenced by various cultures, including Greek, Roman, and North African, making it a melting pot of traditions and customs.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Marseille: The Oldest City In France",
+      "refined_text": "Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic location on the Mediterranean coast made it a vital trading port throughout history. The city's rich cultural heritage is reflected in its diverse architecture and vibrant atmosphere. Key Historical Sites in Marseille for over 2,600 years. Today, it is a lively area filled with cafes, restaurants, and ma",
       "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Or, Select The Hamburger Menu (Windows) Or",
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "A Comprehensive Guide To Traditions And Culture In The South Of France",
+      "refined_text": "Introduction The South of France, with its picturesque landscapes, charming villages, and vibrant cities, is not only a feast for the eyes but also a treasure trove of cultural traditions and heritage. This region, known for its rich history and diverse influences, offers a unique blend of customs, festivals, and local practices that reflect its distinct identity. This guide will take you through the various traditions and cultural aspects of the South of France, providing a deep",
+      "page_number": 1
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites In Nîmes",
+      "refined_text": "best-preserved in the world. It still hosts events, including concerts and bullfights. to the 1st century BC. It is one of the best examples of classical Roman architecture. World Heritage site. It was built in the 1st century AD to transport water to the city. Roman sanctuary. They offer a peaceful retreat with beautiful fountains, statues, and",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Family-Friendly Restaurants",
+      "refined_text": "atmosphere with a menu featuring fresh seafood and Mediterranean dishes. The beachside location and casual vibe make it perfect for families. menu with options for both adults and children. The lively setting and outdoor seating make it a great spot for a family meal. menu that includes kid-friendly options and fresh, local ingredients. The charming",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Traditional Sports And Games",
+      "refined_text": "Played with metal balls on a gravel surface, the objective is to throw the balls as close as possible to a small wooden ball called the cochonnet. Pétanque is more than just a game; it's a social activity that brings people together in village squares and parks.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Folk Music",
+      "refined_text": "Traditional instruments, such as the galoubet (a type of flute) and tambourin (a drum), are often used in folk music performances. The music is characterized by lively rhythms and melodies that reflect the region's festive spirit. Folk dances, such as the farandole, are performed at festivals and celebrations, with participants forming long chains and weaving through the streets.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Course Camarguaise",
+      "refined_text": "Unlike Spanish bullfighting, the objective is not to harm the bull but to remove ribbons and other decorations from its horns. The sport is deeply rooted in local culture and is often accompanied by music and festivities, particularly in Arles from April to October.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Overview Of The Region",
+      "refined_text": "The South of France, or \"Le Midi,\" encompasses the regions of Provence-Alpes-Côte d'Azur, Occitanie, and parts of Nouvelle-Aquitaine. This area is renowned for its diverse landscapes, from the sun-drenched beaches of the French Riviera to the rolling vineyards of Provence and the rugged Pyrenees mountains.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Budget-Friendly Restaurants",
+      "refined_text": "casual eatery offers delicious and affordable local dishes. The rustic ambiance and friendly service make it a favorite among locals and tourists alike. menu changes with the seasons, ensuring fresh and flavorful dishes. Reservations are a must due to its popularity and limited seating. this family-owned restaurant is a local favorite. The lively atmosphere and hearty",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Transhumance Festivals",
+      "refined_text": "Transhumance, the seasonal migration of livestock to higher pastures, is a tradition that dates back centuries. Although modern transportation has replaced much of the traditional practice, transhumance festivals are still celebrated in many villages, particularly in Saint- Rémy-de-Provence in May.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes",
+      "refined_text": "The South of France is home to many iconic dishes that you must try during your visit: shellfish, and a flavorful broth seasoned with saffron and herbs. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Displays Attract Visitors From All Over The World.",
+      "refined_text": "Fête de la Musique Celebrated on June 21st, the Fête de la Musique is a nationwide music festival that originated in France. In the South of France, cities and towns come alive with music, as both amateur and professional musicians perform in streets, squares, and parks.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Types Of Food",
+      "refined_text": "The cuisine in the South of France is diverse, reflecting the region's rich history and cultural influences. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with Mediterranean herbs and olive oil.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Lavender Products",
+      "refined_text": "The fragrant flowers are harvested to produce a variety of products, including essential oils, soaps, and sachets. Lavender festivals, such as the one in Sault in July, celebrate the harvest with parades, music, and markets.",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Sausage, And Duck Or Pork. Cassoulet Is A Labor Of Love, Requiring Hours Of Slow",
+      "refined_text": "The dish is a comforting and satisfying meal that is perfect for a chilly evening. Tarte Tropézienne is a sweet treat that is perfect for a special occasion or as an indulgent afternoon snack. The dessert was created by a Polish baker in the 1950s and quickly became a favorite among locals and",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Wine And Vineyards",
+      "refined_text": "The South of France is renowned for its wine production, with regions such as Provence, Languedoc, and the Rhône Valley producing some of the finest wines in the world. Wine is an integral part of the local culture, and vineyards often host tours and tastings. The tradition of winemaking dates back to Roman times, and the region's diverse terroir contributes to a wide variety of wine styles.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Testament To The Region'S Love For Fresh, Seasonal Produce.",
+      "refined_text": "Salade Niçoise is a perfect example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, and healthy fats. Socca is cooked in a wood-fired oven and is best eaten hot, straight from the oven.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Christmas Traditions",
+      "refined_text": "Christmas in Provence is marked by unique traditions that reflect the region's cultural heritage. One of the most distinctive customs is the \"13 Desserts,\" a feast of thirteen different sweets served after Midnight Mass on Christmas Eve. The number represents Jesus and the twelve apostles. Another tradition is the \"santon\" figurines, which are handcrafted clay figures",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Carnival Of Nice",
+      "refined_text": "Held in Nice from mid-February to early March, the Carnival of Nice is one of the most famous and oldest carnivals in the world. The Battle of Flowers, where participants throw flowers into the crowd, is a highlight of the event.",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Unique Architectural Gem In Nice.",
+      "refined_text": "Cultural Highlights Nice is renowned for its vibrant cultural scene, with numerous museums, galleries, and theaters. The city hosts the Nice Carnival in February, one of the largest and oldest carnivals in the world.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Jazz Manouche",
+      "refined_text": "The South of France has a rich tradition of Jazz manouche. This genre was popularized by the legendary guitarist Django Reinhardt, who was born in Belgium but spent much of his life in the South of France. Jazz manouche is characterized by its fast tempos, virtuosic guitar playing, and swing rhythms. The annual Django Reinhardt Festival in Samois-sur-Seine",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cultural Highlights",
+      "refined_text": "Aix-en-Provence is known for its vibrant arts scene, with numerous galleries, theaters, and music venues. The city hosts several festivals throughout the year, including the Festival d'Aix- en-Provence, which features opera and classical music performances.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Overlooking The Sea Adds To The Overall Dining Experience.",
+      "refined_text": "restaurant serves refined Provençal cuisine with breathtaking views of the French Riviera. The restaurant's terrace offers panoramic views of the Mediterranean, making it the perfect spot for a romantic dinner. The menu features dishes that highlight the",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cuisine, Wines, And Vibrant Cultural Scene.",
+      "refined_text": "Travel Tips to June) and fall (September to October) when the weather is pleasant, and the tourist",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cultural Highlights",
+      "refined_text": "Avignon is famous for its annual Festival d'Avignon, held in July, which is one of the most dance, and music performances in various historic venues throughout the city. Avignon's cuisine is also notable, with local specialties such as truffles, olive oil, and wines from the",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Socca To Shine Through.",
+      "refined_text": "creative and contemporary take on Provençal cuisine. Chef Jean-Luc Rabanel's dishes are a feast for the senses, combining bold flavors with artistic presentation. The restaurant's tasting menu offers a journey through the flavors of Provence, with each",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Avignon: The City Of Popes",
+      "refined_text": "Avignon, located on the banks of the Rhône River, is best known for its role as the seat of the papacy in the 14th century. The city was home to seven popes during this period, leaving a",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Nice: The Jewel Of The French Riviera",
+      "refined_text": "Nice, located on the French Riviera, has been a popular destination for centuries. Its history dates back to the ancient Greeks, who founded the city around 350 BC. Nice later became a",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Roman Colony And Has Since Evolved Into A Glamorous Resort Town.",
+      "refined_text": "Key Historical Sites in Nice the Mediterranean. It was once the site of a medieval castle, which was destroyed in the 18th century. and named after the English aristocrats who frequented Nice. It's perfect for a leisurely",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Olive Oil, And Daube, A Slow-Cooked Beef Stew With Red Wine And Vegetables.",
+      "refined_text": "Occitan cuisine also includes dishes like garbure, a thick soup made with cabbage, beans, and confit de canard (duck confit), and brandade de morue, a creamy salt cod spread. Basque cuisine is also known for its pintxos, small snacks typically served in bars, and gâteau",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Course Showcasing The Region'S Finest Ingredients.",
+      "refined_text": "sophisticated menu that highlights the flavors of the region. The restaurant is located in a historic building in the heart of Saint-Émilion, a town known for its world-class wines. The menu features dishes that pair beautifully with the local wines, creating a",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Pottery And Ceramics",
+      "refined_text": "The South of France has a rich tradition of pottery and ceramics, with towns like Vallauris and Biot being renowned for their craftsmanship. Artisans create a wide range of items, from functional tableware to decorative pieces. The region's pottery often features vibrant colors",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Cultural Highlights",
+      "refined_text": "Marseille is known for its vibrant arts scene, with numerous galleries, theaters, and music venues. The city hosts several festivals throughout the year, including the Festival de Marseille, which celebrates contemporary dance, theater, and music.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites In Toulouse",
+      "refined_text": "centuries, is a UNESCO World Heritage site. It is one of the largest and best-preserved Romanesque churches in Europe. building with a neoclassical facade. It has been the seat of municipal power since the 12th century.",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites In Avignon",
+      "refined_text": "their stay in Avignon. It is one of the largest and most important medieval Gothic buildings in Europe. \"Sur le Pont d'Avignon,\" was built in the 12th century. Although only a few arches",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Shaded Pathways.",
+      "refined_text": "panoramic views of Nîmes and the surrounding area7. purpose remains a mystery, but it is believed to have been a library or a place of worship8.",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Provençal Cuisine",
+      "refined_text": "Olive oil, garlic, tomatoes, and herbs such as thyme, rosemary, and basil are staples in Provençal dishes. Some iconic dishes include ratatouille, a vegetable stew; bouillabaisse, a fish soup; and tapenade, an olive spread.",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Nightlife And Entertainment",
+      "refined_text": "The South of France offers a vibrant nightlife scene, with options ranging from chic bars to lively nightclubs: Bars and Lounges",
+      "page_number": 11
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Festivals And Events",
+      "refined_text": "The South of France hosts a variety of festivals and events throughout the year. Here are some not-to-miss celebrations: performances. September.",
+      "page_number": 6
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Unique Dining Experience With A Focus On Fresh, Local Ingredients And Innovative",
+      "refined_text": "dishes. Chef Mauro Colagreco's cuisine is inspired by the surrounding landscape, with many ingredients sourced from the restaurant's own gardens. The menu changes with",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Culinary Delights",
+      "refined_text": "The South of France is a food lover's paradise. Here are some activities to indulge in the region's culinary delights:",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Caramelized Onions, Olives, And Anchovies.",
+      "refined_text": "a salad with tuna, olives, and anchovies, and Socca, a chickpea flour pancake. Other Niçoise specialties include pan bagnat, a sandwich made with tuna, vegetables, and",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "That The Seafood Is Always Fresh And Flavorful.",
+      "refined_text": "oil. Ratatouille, a vegetable stew, and bouillabaisse, a fish soup, are quintessential Provençal dishes. Provençal cuisine also includes dishes like tapenade, a spread made",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Spot For Families.",
+      "refined_text": "friendly options. The relaxed setting and friendly service make it a great spot for a",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Spot For A Family Meal.",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Generous Servings Make It A Must-Visit.",
+      "refined_text": "at affordable prices. The cozy atmosphere and friendly staff make it a great spot for a",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Crowds Are Smaller.",
+      "refined_text": "buses, and flights. Renting a car is also a great option for exploring the countryside",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Outdoor Activities",
+      "refined_text": "The diverse landscapes of the South of France offer plenty of opportunities for outdoor adventures:",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Setting And Friendly Staff Ensure A Pleasant Dining Experience For Families.",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Riviera. The Elegant Setting And Impeccable Service Make It A Memorable Dining",
+      "refined_text": "",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Relaxed Meal.",
+      "refined_text": "at affordable prices. The cozy atmosphere and friendly staff make it a great spot for a",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Stroll Along The Coast.",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Reflects The Influence Of Russian Aristocrats Who Vacationed In Nice.",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Dishes In A Lively Setting. The Fresh Oysters Are A Must-Try.",
+      "refined_text": "reasonable prices. The outdoor seating and friendly service make it a great spot for a",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Old Port. It Now Houses Part Of The Museum Of European And Mediterranean",
+      "refined_text": "Civilizations (MuCEM). colorful buildings, and historic landmarks. It's a great place to explore the city's past",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Casual Meal.",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Tips And Tricks For Packing",
+      "refined_text": "pack. space. portable phone charger. Consider using a luggage scale to avoid overweight baggage fees.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Exhibits And Interactive Displays.",
+      "refined_text": "",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Portions Make It A Great Spot For A Casual Meal.",
+      "refined_text": "",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "(Vermentino) And Clairette For Whites.",
       "refined_text": "",
       "page_number": 5
     },
     {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "Specify The Maximum File Size For Each Document In The Split.",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Cater To All Ages.",
       "refined_text": "",
-      "page_number": 6
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Depending On The Type Of File Being Converted, The Authoring Applica�On Opens",
-      "refined_text": "automa�cally, or a progress dialog box appears. If the file is in an unsupported format, a message appears, telling you that the file cannot be converted to PDF.",
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Converts Certain Elements In Original Office Documents To Pdf Bookmarks: Word Headings,",
-      "refined_text": "Excel worksheet names, or PowerPoint titles. Selecting this option overrides any settings on the Bookmarks tab of the Conversion Settings dialog box. Add Links",
-      "page_number": 6
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Rgb/Grayscale",
-      "refined_text": "Specifies the type of color management for the output file and whether to embed an ICC",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Rgb/Cmyk/Grayscale",
-      "refined_text": "Specifies the type of color management to be applied to the output file and whether to",
-      "page_number": 9
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Convert Pdf To Jpeg Or Jpeg 2000",
-      "refined_text": "",
-      "page_number": 24
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "File Format Op�Ons For Pdf Export In Acrobat",
-      "refined_text": "To convert a PDF to different file formats, select Convert from the global bar. Each file format",
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Set The Trust Level Of A Certificate",
-      "refined_text": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you",
-      "page_number": 4
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Convert Email Folders To A New Pdf",
-      "refined_text": "PDFMaker can convert multiple folders to PDF in one procedure. It is not necessary to select the",
-      "page_number": 25
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Clear Chat History",
-      "refined_text": "You can clear the chat history and ensure that the AI Assistant treats the document as new so",
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Adobe Pdf Printing Preferences (Windows)",
-      "refined_text": "Printing preferences apply to all applications that use the Adobe PDF printer, unless you change",
-      "page_number": 14
-    },
-    {
-      "document": "Learn Acrobat - Export_2.pdf",
-      "section_title": "Take A Snapshot Of A Page",
-      "refined_text": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the",
       "page_number": 3
     },
     {
-      "document": "The Ultimate PDF Sharing Checklist.pdf",
-      "section_title": "Collaborating On A Project, Seeking Feedback, Or Simply Distributing",
-      "refined_text": "",
-      "page_number": 1
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Read-Aloud Generated Responses",
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Delicious Snack. Chez Pipo Has Been Serving Socca Since 1923 And Is A Beloved",
       "refined_text": "",
       "page_number": 4
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Store Certificates On Directory Servers",
-      "refined_text": "",
-      "page_number": 27
+      "document": "South of France - History.pdf",
+      "section_title": "Opera House.",
+      "refined_text": "the surrounding countryside. It has been a strategic site since prehistoric times and now features beautiful gardens5.",
+      "page_number": 4
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Particular Order For Signing, Toggle The Switch To Complete In Any Order.",
-      "refined_text": "(Optional) Click Add Me, if you want to be included as a signer of the",
-      "page_number": 3
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Alternatively, From Acrobat Home, Select See All Tools. In The Protect Section,",
-      "refined_text": "",
-      "page_number": 22
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "For Instance, Companies In The European Union Who Need To Comply With Advanced Or",
-      "refined_text": "",
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Determine The Type You Should Choose To Sign Your Document. (See Signature Types.)",
-      "refined_text": "Set signing preferences Signing workflow preferences control what you can see and do when the signing dialog box",
-      "page_number": 25
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Select Next, And Then Select Finish.",
-      "refined_text": "Once the roaming ID is added, it can be used for signing or encryption. When you perform a",
-      "page_number": 27
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Commenting Preferences",
-      "refined_text": "",
-      "page_number": 15
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "The Pdf Optimizer Lets You Change The Compatibility Version Of Your Pdfs So They Can Be",
-      "refined_text": "",
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Menu Next To Microsoft Excel, Select The Format You Want Your Excel To Be. You",
-      "refined_text": "",
-      "page_number": 18
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Extended Pdf.",
-      "refined_text": "server. In addition, the signature validation time must be set to Secure Time by navigating",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "You Can Sign Component Pdfs Within A Pdf Portfolio, Or Sign The Pdf Portfolio As A Whole.",
-      "refined_text": "Signing a component PDF locks the PDF for editing and secures its content. After signing all",
-      "page_number": 9
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "The Component Pdfs, You Can Sign The Entire Pdf Portfolio To Finalize It. Alternatively, You Can",
-      "refined_text": "sign the PDF Portfolio as a whole to lock the content of all component PDFs simultaneously.",
-      "page_number": 9
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "From Ldap Directories.",
-      "refined_text": "",
-      "page_number": 1
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Pdf To Tiff Conversion Settings",
-      "refined_text": "In Acrobat, select All tools > Export a PDF and select Image format. From the drop-down",
-      "page_number": 11
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "When You Apply A Certificate-Based Signature, Acrobat Uses A Hashing Algorithm To Generate A",
-      "refined_text": "",
-      "page_number": 22
-    },
-    {
-      "document": "The Ultimate PDF Sharing Checklist.pdf",
-      "section_title": "The Ultimate Pdf Sharing Checklist",
-      "refined_text": "",
-      "page_number": 1
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Appropriate File Type And Follow Through The Steps.",
-      "refined_text": "",
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Specify The Reason For Signing The Document, The Location, And Your Contact",
-      "refined_text": "",
-      "page_number": 26
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "With Predefined Categories Using Named Entity Recognition, E.G., Replacing “John",
+      "document": "South of France - Cities.pdf",
+      "section_title": "The 18Th Century.",
       "refined_text": "",
       "page_number": 5
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Certify Options Provide A Higher Level Of Document Control Than Digitally Sign. For Documents",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Built In The 19Th Century, It Is A Symbol Of The City'S Maritime Heritage.",
       "refined_text": "",
-      "page_number": 24
+      "page_number": 3
     },
     {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "And Markups In Pdfs.",
-      "refined_text": "result, sometimes you need to scroll or zoom out to see comments that are located off",
-      "page_number": 15
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Similarities, Differences, And Key Patterns. With Ai Assistant, You Can Make Targeted Requests,",
-      "refined_text": "such as highlighting the differences between PDF contracts. It links to text and data table",
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Primary Question. Ai Assistant Uses The Latest Ai Language Model, Gpt 4O, To Provide More",
-      "refined_text": "accurate and clear answers to your queries based on more citations. It can extract information",
-      "page_number": 2
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Corresponding Data File To Output Mail Merges Directly To Pdf. You Can Even Set Up Pdfmaker To",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Dishes. The Stunning Views Of The Mediterranean Add To The Allure.",
       "refined_text": "",
-      "page_number": 27
+      "page_number": 4
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Limited Time Because Certificates Related To The Signature Eventually Expire Or Are Revoked.",
+      "document": "South of France - History.pdf",
+      "section_title": "Beautiful Cloister And The Relics Of Saint Thomas Aquinas.",
       "refined_text": "",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Using Ai Assistant In Acrobat Mobile",
-      "refined_text": "",
-      "page_number": 26
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "You Must Sign In To The Zoom Web Portal To Access The Zoom Meeting Information. Then,",
-      "refined_text": "download the meeting transcript and open it in Acrobat to use the AI features. Do the",
-      "page_number": 15
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "You Can Split One Or More Pdfs Into Multiple Smaller Pdfs. When Splitting A Pdf, You Can",
-      "refined_text": "",
-      "page_number": 6
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "The Generative Ai Features Are Only Available In English For Users With Individual Or Teams",
-      "refined_text": "",
-      "page_number": 6
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "The Button To Place The Detected Form Fields In The Pdf Document. Alternatively,",
-      "refined_text": "drag fields from the tabs in the right pane and drop the fields where desired in the",
-      "page_number": 6
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Layers In The Resulting Pdf, Or You Can Flatten The Layers. You Can Also Organize The Visio Layers",
-      "refined_text": "in layer sets, which are folders in the Acrobat Layers panel. select Retain Some Layers In The Selected Page.",
-      "page_number": 1
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Data Action.",
-      "refined_text": "",
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Roaming Ids Can Be Stored On A Server. Acrobat Includes A Default Signature Handler That Can",
-      "refined_text": "access digital IDs from various locations. Register the digital ID in Acrobat for it to be available",
-      "page_number": 27
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Pdfmaker Conversion Settings Vary According To File Types. For Example, The Options Available",
-      "refined_text": "for PowerPoint files aren’t the same as the options available for Outlook files. Once you’ve",
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Edit_1.pdf",
-      "section_title": "Then Drag The Image To The Desired Location.",
-      "refined_text": "",
-      "page_number": 14
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Select Add Initials. Your Initials Appear In The Field.",
-      "refined_text": "icon, and then click and move the signature as desired. then hold and drag it as desired.",
       "page_number": 7
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "When You Convert Your Visio File, Only Shapes And Guides That Are Printable And Visible In The",
-      "refined_text": "Visio drawing are converted and appear in the PDF. Shapes are converted regardless of their",
-      "page_number": 29
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Signature Styles; Click Change Style To View A Different Style.",
-      "refined_text": "",
-      "page_number": 17
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "The Command Is Unavailable If The Signature Is Invalid, Or Is Signed With A Self-Signed",
-      "refined_text": "",
-      "page_number": 11
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "In Many Authoring Applications, You Can Use The Print Command With The Adobe Pdf Printer To",
-      "refined_text": "convert your file to PDF. Your source document is converted to PostScript and fed directly to",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Share_1.pdf",
-      "section_title": "Want To Share The File With.",
-      "refined_text": "file with are displayed next to Shared with. Select the profile icon to open the",
-      "page_number": 11
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Open A File In The Application?",
-      "refined_text": "",
+      "document": "South of France - Cities.pdf",
+      "section_title": "You Can Find Fresh Produce, Flowers, And Local Delicacies.",
+      "refined_text": "in Nice, this museum features a comprehensive collection of his paintings, sculptures, and drawings. Hidden Gems",
       "page_number": 5
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "The Following:",
-      "refined_text": "tools > Scan & OCR, then select In this file under RECOGNIZE TEXT to export image",
-      "page_number": 28
-    },
-    {
-      "document": "Learn Acrobat - Edit_1.pdf",
-      "section_title": "The Color You Want Your Text To Change Into.",
-      "refined_text": "For macOS: You see a Color dialog box with options to change the font color. You can",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Share_1.pdf",
-      "section_title": "Use @Mention In Your Personal Commenting Notes To Start A Review. The @Mentions Includes",
-      "refined_text": "",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Or Select An Image Of Your Signature.",
-      "refined_text": "",
-      "page_number": 17
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "The Acrobat Pdfmaker Conversion Settings Dialog Box Contains The Option That Determines",
-      "refined_text": "",
-      "page_number": 23
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "Use The Correct Font And Formatting. When Editing The Document, Ensure That The Font And",
-      "refined_text": "formatting of the edited text match the original document as closely as possible. If you don't",
-      "page_number": 14
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "Document Area.",
-      "refined_text": "comma. For example, if you want to delete pages 3 and 5, enter 3, 5 in the pages field",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Pop-Up Opacity",
-      "refined_text": "Determines the opacity of comment pop-up notes in values from 1 to 100. When a pop-up",
-      "page_number": 15
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "By Dragging A Handle. The Knee Line Can Be Resized In One Direction Only; Horizontal Knee Lines",
-      "refined_text": "can be resized horizontally only; vertical knee lines can be resized vertically only. The text box",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Expands Vertically As You Type So That All Text Remains Visible.",
-      "refined_text": "You can move the text box itself or together with the end-point line. The text box moves",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Substituted With A Close Match Or Default Font.",
-      "refined_text": "Select text and images press Ctrl (Windows) or Command (macOS); the pointer changes to display a",
-      "page_number": 28
-    },
-    {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "May Look Different When Opened In Acrobat. This Can Happen If The Images Have A Color",
-      "refined_text": "profile included at the page level but not inside the image data. In this case, Acrobat cannot",
-      "page_number": 9
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "The Chat History Might Still Contain Content From Documents You'Ve Removed From A",
-      "refined_text": "Collection. The AI Assistant may also use this chat history as context when responding to your",
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Of The Markup To Indicate The Presence Of Text In The Pop-Up Note.",
-      "refined_text": "Also, you can edit PDFs with comments online. Our online PDF editor lets you easily add text,",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "With Acrobat.",
-      "refined_text": "",
-      "page_number": 15
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Method 2 (Windows Only): Open The File In Its Source",
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Dishes. The Relaxed Setting And Fresh Ingredients Make It A Popular Choice.",
       "refined_text": "",
       "page_number": 3
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "For Headings And Styles Indicate The Element Types.",
-      "refined_text": "Type Also indicates whether the element is a heading or style in the Word document.",
-      "page_number": 11
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Mail Merges From Word Generate Documents Like Form Letters—For One Common Example—",
+      "document": "South of France - History.pdf",
+      "section_title": "Count Of Monte Cristo\"1.",
       "refined_text": "",
-      "page_number": 27
+      "page_number": 2
     },
     {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Show This Number Of Recent Archives (Outlook Only)",
-      "refined_text": "",
-      "page_number": 8
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Open The List Of Printers, And Then Click Properties Or Preferences.)",
-      "refined_text": "",
-      "page_number": 12
-    },
-    {
-      "document": "Learn Acrobat - Share_2.pdf",
-      "section_title": "Font, Font Size",
-      "refined_text": "In Windows, you can determine the font and the size of text in pop-up notes. In Mac OS, you",
-      "page_number": 15
-    },
-    {
-      "document": "Learn Acrobat - Edit_2.pdf",
-      "section_title": "File Size",
+      "document": "South of France - Cities.pdf",
+      "section_title": "Dates Back To The 12Th Century And Features A Gilded Statue Of The Virgin Mary.",
       "refined_text": "",
       "page_number": 7
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Microsoft Office",
+      "document": "South of France - History.pdf",
+      "section_title": "Dates Back To The 12Th Century And Features A Gilded Statue Of The Virgin Mary.",
       "refined_text": "",
-      "page_number": 3
+      "page_number": 4
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Encoding",
-      "refined_text": "",
-      "page_number": 22
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "And Onions, Seasoned With Herbs De Provence. Ratatouille Can Be Served As A Main",
+      "refined_text": "dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a",
+      "page_number": 3
     }
   ]
 }
