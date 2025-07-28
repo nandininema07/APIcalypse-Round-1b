@@ -1,248 +1,237 @@
 {
   "metadata": {
     "input_documents": [
-      "Learn Acrobat - Create and Convert_1.pdf",
-      "Learn Acrobat - Create and Convert_2.pdf",
-      "Learn Acrobat - Edit_1.pdf",
-      "Learn Acrobat - Edit_2.pdf",
-      "Learn Acrobat - Export_1.pdf",
-      "Learn Acrobat - Export_2.pdf",
-      "Learn Acrobat - Fill and Sign.pdf",
-      "Learn Acrobat - Generative AI_1.pdf",
-      "Learn Acrobat - Generative AI_2.pdf",
-      "Learn Acrobat - Request e-signatures_1.pdf",
-      "Learn Acrobat - Request e-signatures_2.pdf",
-      "Learn Acrobat - Share_1.pdf",
-      "Learn Acrobat - Share_2.pdf",
-      "Test Your Acrobat Exporting Skills.pdf",
-      "The Ultimate PDF Sharing Checklist.pdf"
+      "Graph Neural Networks for Drug Discovery 1.pdf",
+      "Graph Neural Networks for Drug Discovery 2.pdf",
+      "Graph Neural Networks for Drug Discovery 3.pdf",
+      "Graph Neural Networks for Drug Discovery 4.pdf"
     ],
-    "persona": "HR professional",
-    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
-    "processing_timestamp": "2025-07-28T04:43:13.807370"
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "processing_timestamp": "2025-07-28T13:10:14.052011"
   },
   "extracted_sections": [
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "section_title": "Yaoetal. 10.3389/fphar.2024.1393415",
       "importance_rank": 1,
-      "page_number": 11
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Set privileges and permissions for others",
-      "importance_rank": 2,
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "License deployment",
-      "importance_rank": 3,
-      "page_number": 17
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Fill in PDF Forms",
-      "importance_rank": 4,
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "section_title": "Common questions",
-      "importance_rank": 5,
       "page_number": 15
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "PNG format is useful for images that are used on the web.",
-      "importance_rank": 6,
-      "page_number": 9
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "section_title": "Yaoetal. 10.3389/fphar.2024.1393415",
+      "importance_rank": 2,
+      "page_number": 11
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Convert a file to PDF using PDFMaker",
-      "importance_rank": 7,
-      "page_number": 13
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Validate all digital signatures",
-      "importance_rank": 8,
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Create a PDF as an email attachment",
-      "importance_rank": 9,
-      "page_number": 17
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "section_title": "Do Not Include Folder Name Information",
-      "importance_rank": 10,
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "section_title": "Select multiple files",
-      "importance_rank": 11,
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Edit_1.pdf",
-      "section_title": "Change, replace, or delete text",
-      "importance_rank": 12,
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "section_title": "Yaoetal. 10.3389/fphar.2024.1393415",
+      "importance_rank": 3,
       "page_number": 3
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Manage your bulk sends",
-      "importance_rank": 13,
-      "page_number": 16
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "section_title": "Fill and Sign PDF Forms",
-      "importance_rank": 14,
+      "document": "Graph Neural Networks for Drug Discovery 2.pdf",
+      "section_title": "2020 IEEE International Conference on Big Data (Big Data)",
+      "importance_rank": 4,
       "page_number": 0
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "section_title": "Signer's experience",
-      "importance_rank": 15,
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Share_1.pdf",
-      "section_title": "Initiate SharePoint-based shared review",
-      "importance_rank": 16,
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "section_title": "Yaoetal. 10.3389/fphar.2024.1393415",
+      "importance_rank": 5,
       "page_number": 13
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "section_title": "Using Create PDF cloud service for PDF",
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "section_title": "Yaoetal. 10.3389/fphar.2024.1393415",
+      "importance_rank": 6,
+      "page_number": 1
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "section_title": "Jiang et al. J Cheminform (2021) 13:12 Page 4 of 23",
+      "importance_rank": 7,
+      "page_number": 3
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "section_title": "Jiang et al. J Cheminform (2021) 13:12 Journal of Cheminformatics",
+      "importance_rank": 8,
+      "page_number": 0
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "section_title": "Yaoetal. 10.3389/fphar.2024.1393415",
+      "importance_rank": 9,
+      "page_number": 14
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "section_title": "Yaoetal. 10.3389/fphar.2024.1393415",
+      "importance_rank": 10,
+      "page_number": 2
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "section_title": "J iang et al. J Cheminform (2021) 13:12 Page 5 of 23",
+      "importance_rank": 11,
+      "page_number": 4
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "section_title": "Yaoetal. 10.3389/fphar.2024.1393415",
+      "importance_rank": 12,
+      "page_number": 7
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 1.pdf",
+      "section_title": "P.Bongini,M.BianchiniandF.Scarselli Neurocomputing450(2021)242–252",
+      "importance_rank": 13,
+      "page_number": 9
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 1.pdf",
+      "section_title": "P.Bongini,M.BianchiniandF.Scarselli Neurocomputing450(2021)242–252",
+      "importance_rank": 14,
+      "page_number": 3
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 1.pdf",
+      "section_title": "P.Bongini,M.BianchiniandF.Scarselli Neurocomputing450(2021)242–252",
+      "importance_rank": 15,
+      "page_number": 1
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 1.pdf",
+      "section_title": "P.Bongini,M.BianchiniandF.Scarselli Neurocomputing450(2021)242–252",
+      "importance_rank": 16,
+      "page_number": 10
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "section_title": "Jiang et al. J Cheminform (2021) 13:12 Page 8 of 23",
       "importance_rank": 17,
-      "page_number": 12
+      "page_number": 7
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "section_title": "Adobe LiveCycle Rights Management",
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "section_title": "Jiang et al. J Cheminform (2021) 13:12 Page 2 of 23",
       "importance_rank": 18,
-      "page_number": 0
+      "page_number": 1
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "section_title": "Convert PDF to PostScript or Encapsulated",
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "section_title": "Jiang et al. J Cheminform (2021) 13:12 Page 6 of 23",
       "importance_rank": 19,
-      "page_number": 19
+      "page_number": 5
     },
     {
-      "document": "The Ultimate PDF Sharing Checklist.pdf",
-      "section_title": "The Ultimate PDF Sharing Checklist",
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "section_title": "J iang et al. J Cheminform (2021) 13:12 Page 9 of 23",
       "importance_rank": 20,
-      "page_number": 0
+      "page_number": 8
     }
   ],
   "sub_section_analysis": [
     {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "When you create a different form, redo this task to enable Acrobat Reader users to use the tools. Change flat forms to fillable (Acrobat Pro) You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Flat form To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms.",
-      "page_number": 11
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "And best of all, Adobe hosts it securely, so your IT department doesn’t have to do the work of setting up a signature infrastructure. Set privileges and permissions for others • Certify a document while leaving portions of it available for form filling, signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs • Use Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict usage such as printing, editing, or copying What if my organization isn’t prepared to set up certificate- based signatures? Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web contracting. To sign a document with a certificate-based signature, you must obtain a digital ID or create a self-signed digital ID in Acrobat or Acrobat Reader. The digital ID contains a private key and a certificate with a public key, and more.",
-      "page_number": 20
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "refined_text": "Once you assign AI Assistant for Acrobat, the users must restart Acrobat to see AI Assistant. License deployment You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. You can choose to either select the users to assign or create product profiles and assign users to the profiles. As an admin, you must add users to the Admin Console using one of the methods described in Adobe Admin Console users.",
-      "page_number": 17
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. For example, the Hand tool changes to an I-beam when you can type text into the form field. Some text fields are dynamic, meaning that they automatically resize to accommodate the amount of data you enter and can span across pages. Fill in interactive forms An interactive form contains fields that you can select or fill in. If necessary, select either the Hand Tool or the Select Tool from the context menu of the page (right-click on the page to open the context menu).",
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_2.pdf",
-      "refined_text": "It provides centralized license management and enterprise- level technical support for adequate user support at scale. If you can't find the option to request access to a product, your administrator may not have enabled the option for your organization. Administer AI Assistant for enterprises Adobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web, mobile, and desktop platforms. If you have multiple profiles associated with your organization-provided Adobe account, you must first choose which profile to sign in with. What if I can’t find the option to request access to AI Assistant for Acrobat?",
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "refined_text": "To this end, Chen’s team (Yang et al., 2022b) challenges: the necessity for comprehensive datasets for clinical developed a novel visual explanation method, gradient-weighted utilization and the inference of DDI types for new drugs not affinity activation mapping (Grad-AAM), to analyze a deep learning encompassed in existing datasets. To a certain extent, GNN models trained via MolCLR demonstrate significant this helps researchers understand the impact of data features on improvements on all molecular benchmarks, benefited from pre- prediction results, but these methods only provide global training on large unlabeled data, and improved the problem of interpretability and cannot provide detailed explanations for the insufficient data in molecular learning. It Net).PLA-Netisbasedonagradientmethodtocalculateantagonistic provides detailed data on drugs verified through experiments, molecular amplification, thereby retaining biological consistency and making it a crucial source for studying DDI. And more models, researchers optimized the GNN algorithm by introducing sophisticated GNNs, which cannot utilize unlabeled data. For example, when the GNN’s prediction results a MolCLR (Molecular Contrastive Learning of Representations via recommend a certain molecule as a potential drug candidate, GraphNeuralNetworks)frameworkandshowedthatthecontrastive researchers need to understand the prediction process and the learningframeworksignificantlyimprovedtheperformanceofgraph- features that affect the prediction results in order to conduct further neural-networkencodersonvariousmolecularpropertybenchmarks, experimental verification.",
       "page_number": 15
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "refined_text": "Adam7 can make downloading time seem shorter and assures viewers that downloading is in progress; however, it increases file size. Color management RGB/Grayscale Specifies the type of color management for the output file and whether to embed an ICC profile. None creates an image that displays in a web browser only after downloading is complete. Adam7 creates an image that displays low-resolution versions in a browser while the full image file is downloading. • Average: Optimizes the compression of low-level noise by averaging the color values of adjacent pixels.",
-      "page_number": 9
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "refined_text": "publishing research results in this field in 2019 and has already Unlike systematic reviews and meta-analyses, bibliometric published some classic papers in high-quality journals visualization approaches, such as VOSviewer and CiteSpace, (Supplementary Table S1). algorithmwitheachclusterdisplayingonlyonelabel.Thequadrants China and the United States accounted for 3/4 of the total represent different thematic spaces: central and developed, number of publications in this field, indicating their leading peripheral and developed, peripheral and undeveloped (emerging position in this research area. 4.1 Discussions of publication year, leading China consistently demonstrates a strong research fervor in this countries, institutions, journals, and authors field, publishing numerous papers in 2022 and 2023, thereby enhancingitsacademicvalueandinfluenceinthisfieldovertime. For example, Jiang’s team’s paper on provide a more intuitive analysis of the current status, predictivemolecularpropertymodelingintheJournalofMedicinal development trends, and hotspots of a research field (Merigo and Chemistry has been cited up to 274 times, indicating that these Yang,2017).Theassessmentfindingsshowenhancedreliabilityand Chinese research teams’ output has been widely recognized and repeatability.Thisstudyprovidesacomprehensiveoverviewofthe citedinthefield.However,intermsofaveragecitationfrequency, currentstateofGNNapplicationsinthefieldofdrugdiscovery.We the United States and Australia both have an average citation conductedabibliometricanalysistosummarizetheexistingresearch frequency of more than 20, especially the United States, which is andpresentedtheresultsvisuallyusingdifferentsoftwaretools.The clearlyleadingintermsofthenumberandqualityofpapers.China’s analysis includes insights into the development trends and future averagecitationfrequencyisonlyhigherthanIndia’sandCanada’s research hotspots inthisfield. According to the results of the annual collaborationswithseveralcountries/regionsaroundtheworldand distribution of publications, only one relevant paper was is the country with the most extensive international collaborative published in 2017 and 2018, both from Stanford University in research in this field.",
+      "page_number": 11
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "For Microsoft Office applications such as Word, Excel, and PowerPoint, the options for creating PDFs are available from the Acrobat ribbon. You can use either the toolbar buttons or the Adobe PDF menu (the Action menu in Lotus Notes) to create PDFs, but the menu also provides access to conversion settings. Do one of the following: • If PDFMOutlook or Acrobat PDFMaker Office COM Add-in isn't listed, choose COM Add-Ins from the Manage pop-up menu and select Go. • If PDFMOutlook or Acrobat PDFMaker Office COM Add-in is listed under Disabled Application Add-ins, select Disabled Items from the Manage pop-up menu and select Go. In the dialog box that appears, choose Toolbar > Toolbars, and select the Visible option for Acrobat PDFMaker.",
-      "page_number": 13
-    },
-    {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "refined_text": "End users can exchange certificates or add them directly from signed documents and set their trust levels. To view previous versions, open the Signature panel and then select Options > View Signed Version. Trust a signer’s certificate To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity Manager. View previous versions of a digitally signed document Whenever a certificate is used to sign a document, a signed version of the PDF is created and saved along with the original PDF. The previous version opens as a new PDF, with the version information and the name of the signer in the title bar.",
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "For Microsoft Office applications, such as Word, Excel, and PowerPoint, click the Create And Share button on the Acrobat ribbon. • To specify only users that are specified by a security policy, select Restrict Access By Applying The Following Security Policy, and then select a security policy in the list. Specify the users that can open the PDF, and then click OK: • To specify only users that receive the PDF, select Restrict Access Only To People In This Message’s To:, Cc:, And Bcc: List. Note: The Attach As Secured Adobe PDF button appears only after you’ve configured an Adobe Experience Manager Document Security using the All tools > Protect a PDF > Set Security Properties > Security Method. Convert files to a secured PDF and attach it to an email message (Outlook) 1.",
-      "page_number": 17
-    },
-    {
-      "document": "Learn Acrobat - Create and Convert_2.pdf",
-      "refined_text": "Block Download Of External Content When selected, prevents the downloading of any external Internet content, such as images, CSS, and JavaScript. AutoCAD-specific options on the Settings tab (Acrobat Pro) The following options appear when you open the PDFMaker settings from within Autodesk AutoCAD. Embed Index For Faster Search Creates an embedded index, which speeds up searches, especially when you convert large numbers of email messages or message folders. Do Not Convert Model Space To 3D When selected, the model space layout is not converted to a 3D annotation in the PDF. Choose Layout Option Specifies whether Current Layout, All Layouts, or Selected Layouts are included in the PDF.",
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Generative AI_1.pdf",
-      "refined_text": "• While the AI Assistant generates the response, you can pause the processing anytime by selecting Stop. • Move the drag handle left or right to adjust the AI Assistant pane size for better readability. • To remove a file from the Collection, select View and manage files in chat, then Remove file from chat. You can do the following: • Select a number to navigate directly to the corresponding section of the document. Select multiple files Acrobat creates a collection of the selected files and opens the document.",
-      "page_number": 10
-    },
-    {
-      "document": "Learn Acrobat - Edit_1.pdf",
-      "refined_text": "You can also try the advanced format options, such as line spacing, character spacing, horizontal scaling, stroke width, and color. You can create lists and, conversely, convert a list item to a paragraph or change list types. Manage list items using the list controls (bulleted and numbered) in the left Format panel. Change, replace, or delete text When you edit text, the text in the paragraph reflows within its text box to accommodate the changes. To rotate the text box, use the rotation handle at the top of the selected text box.",
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "refined_text": "VOSviewer is a free Java-based soft bibliometric analysis However, as time progressed, other countries also began to piece that provides three types of visualization maps, conduct research in this field, with China’s publication including network visualization, overlay visualization, and proportion increasing annually. CiteSpace, developed 10 countries in terms of the number of annual publications in by Prof. Chaomei Chen, is another tool for visualizing and 2017–2023.Theproportionofeachcountryinthechartrepresents constructing bibliometric networks by creating visual maps of its number of publications relative to the total number of specific literature to analyze the current state of research and publications in the top ten. The that the combination of GNN and drug discovery, as a newly journal discipline distribution and reference burst detection were explored research area in recent years, has not yet been studied performedusingCiteSpaceV6.1.Bibliometrixisanewbibliometrics anddiscussedglobally.Table3liststhetop10countriesandregions software introduced in 2017 that can perform comprehensive in terms of the number of publications in this field. obtainthebestnetworklayout.Suchasettingcanmakethenodes of the network map better distributed in space, reduce overlap Description Results and congestion, so that the cooperative relationship is more Timespan 2017:2023 clearly displayed, and help researchers better understand the cooperative relationship between the literature. However, the layout of the cooperative network 3.3 Institutional analysis diagram is crucial to visualizing and understanding the results.",
       "page_number": 3
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "Single-click the Bulk Send you to want to access, opening the context menu on the right side of the window. The context menu on the right side contains five distinct sections: • Metadata (red square): At the top of the menu is the metadata for the Bulk Send template: • Image of the Bulk Sends' first page • The title of the Bulk Send • The date the Bulk Send was sent to the participants • The email value of the userID that created the Bulk Send • The current status of the whole Bulk Send • The Message provided in the initial email Select Bulk Sends in the list of Your documents on the left side of the window.",
-      "page_number": 16
-    },
-    {
-      "document": "Learn Acrobat - Fill and Sign.pdf",
-      "refined_text": "Fill and Sign PDF Forms You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types of PDF forms",
+      "document": "Graph Neural Networks for Drug Discovery 2.pdf",
+      "refined_text": "Then we describe our an overview of the drug discovery framework, drug-target specific approach combining topology adaptive graph neural interaction framework, and GNNs. In section II, we give a cursory breakthroughs in geometric deep learning, inspired by the summary of drug-target interaction framework and the deep topologies of the molecules. 2020 IEEE International Conference on Big Data (Big Data) Graph Neural Networks for COVID-19 Drug Discovery Mark Cheung Jose´ M. F. Moura Department of Electrical and Computer Engineering Department of Electrical and Computer Engineering Carnegie Mellon University Carnegie Mellon University Pittsburgh, USA Pittsburgh, USA markcheu@andrew.cmu.edu moura@andrew.cmu.edu Abstract—Deep learning has led to major advances in fields therecanbemillionsofcompoundstotest.Inthelastdecade, like natural language processing, computer vision, and other scientists have found machine learning models to be a good Euclidean data domains. This article is free to access and download, along with rights for full text and data mining, re-use and analysis. The scope of this paper is on one type of deep learning We explore these state-of-the-art AI models on predicting models, namely graph neural networks (GNNs), applied to desirable molecular properties for drugs that can inhibit SARS- CoV-2.",
       "page_number": 0
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_1.pdf",
-      "refined_text": "Send in bulk allows you to upload a form and use that as a template to create and send many (hundreds!) To access the Send in bulk feature, do one of the following: • In the Acrobat desktop app, go to the Tools center, scroll down to the E-Sign section, and then select Send in bulk. Additionally, the sender can export the field-level data of all completed agreements in a CSV format using the Download Form Field Data action. • Sign in to Acrobat online, select the E-Sign menu in the top navigation bar, and then select Send in bulk. Also, if the signer uses Acrobat or Acrobat Reader desktop application, the signer sees a notification that an agreement has been shared for signing.",
-      "page_number": 7
-    },
-    {
-      "document": "Learn Acrobat - Share_1.pdf",
-      "refined_text": "Now, to host the shared review, you can do one of the following: • Let Acrobat automatically create and configure a document library within your SharePoint server’s subsite. To save this shared review profile for future use, provide a name and then click Next, or click Next to use the default. Choose SharePoint subsite, and then provide the URL of your subsite on the SharePoint server. Acrobat automatically creates and configures a new document library (named AcrobatSharedReviews) within your subsite to initiate the shared review. Note: If you don't want Acrobat to automatically configure the review, you can click Choose a subsite to select the document library that you have already created and configured.",
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "refined_text": "Additionally, Bioinformatics and the Journal of Chemical Inbibliometricstudies,papercitationanalysisisanimportant Information Models ranked among the top three in terms of tool to identify important papers, evaluate research progress, and published papers, demonstrating their great influence, and these predict research development frontiers. In addition, the author, information and knowledge dissemination results, and journal ZitnikMarinka,isalsoacoreauthorandhasbegunresearchinthis analysis can provide researchers with a large amount of reliable field in 2018, and the total number of citations for the author reference information that helps them identify high-quality and reached500,whichdemonstratestheoutstandingcontributionand appropriate target journals when searching the literature or importance of the author in this field. The addition, pharmaceutical companies and hospitals can use the most-citedpaperbytheteamwaspublishedin2020.Asthemost prediction results provided by universities for experimental published author, You Zhu-Hong had published numerous high- validation to determine whether they can enter clinical use. Altae-Tran H published (#4 CHEMISTRY, MATERIALS, PHYSICS), and Theme 8 another paper in 2017 that received nearly 400 citations, (#8 MOLECULAR, BIOLOGY, GENETICS), were cited 769 and introducing a new architecture that, when combined with GCN, 1436times,respectively,bythethemesonthecitingside(leftside), showed significant improvements in low-data predictive power in Theme 4 (#4 MOLECULAR, BIOLOGY, IMMUNOLOGY). level, with the main research direction of miRNA-disease Journals are an important vehicle for presenting academic associations prediction (Li et al., 2021).",
       "page_number": 13
     },
     {
-      "document": "Learn Acrobat - Create and Convert_1.pdf",
-      "refined_text": "They also include link recognition so that hyperlinks, internal document links, and tables of contents are created as live links. Using Create PDF cloud service for PDF conversion Acrobat provides an option to use Adobe Create PDF cloud service in addition to a local conversion to convert Microsoft Word documents to PDFs.",
-      "page_number": 12
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "refined_text": "This approach eliminates the need for traditional Intelligence (AI) is a technology that focuses on the application of machine learning algorithms to create separate models for each computerprogramstosimulatehumanintelligentbehavior.Itinvolves prediction task and overcomes the challenge of enabling knowledge several fields such as informatics, mathematics, and biology (Shen sharingamongmultipleindependentmodels(Stokesetal.,2020).While etal.,2022a).Artificialneuralnetworks,afundamentaltechnologyin GNN has obvious advantages in drug discovery, it also presents the field of AI, have received growing interest in recent years. For challenges such as the insufficient interpretability of the model, the example, algorithms such as convolutional neural networks (CNN), need for large amounts of labeled data for training, and the high recurrentneuralnetworks(RNN),andautoencoderscanautomatically consumption of computing resources (Zhou et al., 2020; Wu et al., capture useful feature information. graph(Liuetal.,2023a;MaandLei,2023).Thesegraphdatamaybe The distribution and cooperation status of main countries, usedtocharacterizethetopologyofmolecules,chemicalfeatures,and authors, institutions, and journals in the field of GNN other important information to screen and design new drug applications indrug discovery. Therefore, scientists are constantly exploring and improving requirement where traditional machine learning algorithms had to GNN, and the output of related research results has been increasing. The fourth part summarizes and model to better utilize the information contained within the graph discussestheseaspects,focusingontheresearchhotspots,trends, structure.",
+      "page_number": 1
     },
     {
-      "document": "Learn Acrobat - Request e-signatures_2.pdf",
-      "refined_text": "Digital signatures are a secure and efficient way to electronically sign and authenticate documents, ensuring their authenticity and integrity. By using digital signatures, you can sign documents quickly and easily, and be confident that they can’t be tampered with or forged. Use ALCRM servers to set permissions for separate document tasks, for example opening, editing, and printing. Adobe LiveCycle Rights Management (ALCRM) servers Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to control access to documents. When you receive a signed document, you may want to validate its signature to verify the signer and the signed content.",
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "refined_text": "In addition, little attention was paid to several newly Datasets state-of-the-art ML algorithms, such as XGBoost and To well compare the performance of descriptor-based LightGBM, which have illustrated great potentials for and graph-based models, the dataset collection related modelling various molecular properties [39–42]. The Four ML algorithms were used to develop the descriptor- details of those datasets are summarized in Table 2. based models, including SVM, extreme gradient boost- Here, three datasets were used for the regression tasks, ing (XGBoost), RF and deep neural networks (DNN). reported MoleculeNet, putational cost of the descriptor-based models is far less a large benchmark for molecular machine learning, and than that of the graph-based model baselines, and the the evaluation results illustrated that graph-based meth- descriptor-based models generally yield more promising ods outperformed descriptor-based methods on most predictions than the graph-based methods. However, it is well known that the performance reach better or comparable accuracy, computability, and of descriptor-based models is highly depending on the interpretability to the highly complicated and specialized descriptors used in training and many previous studies graph-based DL models. Moreo- (GCN) architecture for the predictions of various chemi- ver, the established descriptor-based models were inter- cal endpoints [33], and the application of GCN illustrated preted by the Shapley additive explanations (SHAP), and that its performance was comparable to state-of-the-art the important descriptors and structural features learned ML algorithms such as SVM, RF, and gradient boosting by the prediction models were highlighted.",
+      "page_number": 3
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "refined_text": "J Cheminform (2021) 13:12 Journal of Cheminformatics https://doi.org/10.1186/s13321-020-00479-8 RESEARCH ARTICLE Open Access Could graph neural networks learn better molecular representation for drug discovery? Keywords: Graph neural networks, Extreme gradient boosting, Ensemble learning, Deep learning, ADME/T prediction Introduction *Correspondence: oriental‑cds@163.com; wujian2000@zju.edu.cn; Molecular property modelling, which assists in hunt- tingjunhou@zju.edu.cn †Dejun Jiang and Zhenxing Wu are equivalent authors ing for chemicals with desired pharmacological and 1 Innovation Institute for Artificial Intelligence in Medicine of Zhejiang ADME/T (absorption, distribution, metabolism, excre- University, College of Pharmaceutical Sciences, Zhejiang University, tion, and toxicity) properties, is one of the most classi- Hangzhou 310058, Zhejiang, China 3 College of Computer Science and Technology, Zhejiang University, cal cheminformatics tasks [1, 2]. A variety of machine Hangzhou, China learning (ML) approaches, such as Naive Bayes (NB) 6 Xiangya School of Pharmaceutical Sciences, Central South University, [3–5], k-Nearest Neighbors (k-NN) [6], logistic Changsha 410004, Hunan, China Full list of author information is available at the end of the article regression (LR) [7, 8], support vector machine (SVM) © The Author(s) 2021. In this study, based on 11 public datasets covering various property endpoints, the predictive capacity and computational efficiency of the prediction models developed by eight machine learning (ML) algo‑ rithms, including four descriptor‑based models (SVM, XGBoost, RF and DNN) and four graph‑based models (GCN, GAT, MPNN and Attentive FP), were extensively tested and compared. Both RF and XGBoost can achieve reli‑ able predictions for the classification tasks, and some of the graph‑based models, such as Attentive FP and GCN, can yield outstanding performance for a fraction of larger or multi‑task datasets.",
       "page_number": 0
     },
     {
-      "document": "Learn Acrobat - Export_1.pdf",
-      "refined_text": "Note: If you create EPS files for separations in Acrobat Pro, all image color spaces should be CMYK. You can also create an EPS file from any PDF for placement or opening in other applications. In the Save as dialog, select a location where you want to save the file and then select Save. Convert PDF to PostScript or Encapsulated PostScript (EPS) You can export a PDF to PostScript for printing and prepress applications. The PostScript file includes full DSC (Document Structuring Conventions) comments and other advanced information preserved by Adobe Acrobat Distiller.",
-      "page_number": 19
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "refined_text": "Steven Kearnes et al., 2016 model.Similarly,Parvin’steam(Palhamkhanietal.,2023)proposed published this paper on molecular graph convolution in the the DeepCompoundNet model, which shares similarities with the Journal of Computer-Aided Molecular Design in 2016. 10.3389/fphar.2024.1393415 technology in the drug discovery field, the method is likely to GCN-DTImodel,supportedbyexistingliterature,demonstratethe encounter additional questions and challenges. These innovative GNN models, which providing new methods and opportunities for improvements in are based on multi-modal data feature extraction and fusion, virtualscreeningfordrugdiscovery.Thiswasalsooneoftheearliest effectively capture and learn complex data patterns, resulting in paperswediscoveredwhilecollectingpublicationonapplyingGNN significantimprovements inDTI prediction performance. In recent studies, point that an optimal predictive model should have a good theapplicationofmulti-modaldatafeaturesextractionandfusion balance between prediction accuracy and computational techniques, such as node2vec and CNN, has beeninstrumental in efficiency, but graph-based models have an overwhelmingly enhancingtheperformanceofDTIprediction.Forexample,Sajjad’s slower training speed than descriptor-based models, so graph- team(Dehghanetal.,2024)introducedamultimodalfusionCCL- based models have more computational cost and less DTIalgorithmwithcontrastiveloss.Thismethodusesnode2vecto computational efficiency. According to reliability of the results and the effectiveness of GCN-DTI in Table 7, Jiang’s research (Jiang et al., 2021) puts forward the recognizing real-world drug-target interactions.",
+      "page_number": 14
     },
     {
-      "document": "The Ultimate PDF Sharing Checklist.pdf",
-      "refined_text": "Whether you're collaborating on a project, seeking feedback, or simply distributing information, this checklist will ensure you cover all the bases. • Choose Your Sharing Method • Are you sharing via email, link, or a third-party app like Microsoft Teams or WhatsApp? • Create and Share the Link • Did you generate a shareable link and copy it for distribution? • Customize Your Message • Have you added a personal touch to the subject and message fields? General Sharing Checklist • Open Your PDF • Have you launched Acrobat or Acrobat Reader and opened the PDF you want to share?",
-      "page_number": 0
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "refined_text": "The and  citation database with a powerful indexing literature publication period was 2017–2023, and tauthoritativehe language functionthat iswidely used inbibliometric research. 2.2 Data retrieval strategy 2.3 Data processing In this study, all of the obtained publications were retrieved and downloaded from the WoSCC database on 6 January 2024, Weretrievedatotalof843literaturecandidates.Thetitlesand usingthefollowingsearchequationforpublicationcollection:#1: abstracts of the literature were then manually checked to exclude TS = (graph NEAR/2 network*); #2: TS = (drug) OR TS = literature unrelated to the research topic. Finally, 652 pieces of (medicine) OR TS = (pharmaceutical); and the final search literature wereincluded for the dataanalysis. Some of the inherent shortcomings For example, network* also includes the plural of a network, of the WOS database were checked and merged, and information networks. To obtain as many relevant sources therelevantinformationfromthesepapers.All652retrievedpapers aspossible,wildcardcharacters(*)wereusedtorepresentoneor were downloaded as “Full Record and Cited References” and moreothercharactersandallowforvariableendingsofkeywords.",
+      "page_number": 2
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "refined_text": "Followed by pre- Machine learning algorithms vious studies [27], almost all the easily accessible atom/ As one of the most classic cheminformatics problems, bond-level features were exhausted to comprehensively molecular property prediction has made considerable squeeze chemical information into molecular graph for progress over the last decade due to the application of graph-based models, where include nine kinds of atomic new ML methods represented by deep learning and features (i.e., atom symbol, atom degree, formal charge, ensemble learning [25, 40, 45, 46]. The more details about the subdatasets and the corresponding statistics may be molecular representations for graph-based models are improved in comparison with traditional ML methods, available in the publication [27]. The MOE descriptors were calculated by MOE Molecular representation (Version: 2015.1001), and the two sets of fingerprints Graph-based methods are capable of learning molecu- were calculated by PaDEL-Descriptor (Version: 2.1). One of them were encoded into a molecular graph in a one- of the strengths for graph-based models is that multi- hot manner and subsequently the encoded molecular task learning can be applied for such highly imbalanced graph was used as the input. To comprehensively represent molecular the assessed ML models were evaluated based on the structures, 206 MOE 1-D and 2-D descriptors and two same remaining 182 ToxCast tasks, and we believe that sets of fingerprints, including 881 PubChem fingerprints the results can still make sense.",
+      "page_number": 4
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 3.pdf",
+      "refined_text": "Yaoetal. 10.3389/fphar.2024.1393415 FIGURE4 Visualizationofinstitutionalcooperation. TABLE5Top10journalsintermsofpublications. Rank Journaltitle h_index TC TP PY_start IF (2023) JCR 1 BriefingsInBioinformatics 20 1303 75 2020 9.5 Q1 2 Bioinformatics 15 1580 44 2018 5.8 Q1 3 JournalofChemicalInformationAndModeling 16 996 38 2019 5.6 Q1 4 Ieee-AcmTransactionsonComputationalBiologyAndBioinformatics 8",
+      "page_number": 7
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 1.pdf",
+      "refined_text": "Hamilton, J. Leskovec, GraphRNN: Generating Future work will focus on generalizing the model to other realistic graphs with deep auto–regressive models, in: International moleculargraph generationproblems, and on extending the pre- ConferenceonMachineLearning,2018,pp.5708–5717. [24] D.Weininger,A.Weininger,J.L.Weininger,Smiles.2.Algorithmforgeneration ofuniqueSMILES notation,JournalofChemicalInformation andComputer This research did not receive any specific grant from funding Sciences29(2)(1989)97–101. Hernández-Lobato, Grammar variational [1] P. ErdH&os, A. Rényi, On random graphs I, Publicationes Mathematicae autoencoder, in: International Conference on Machine Learning, 2017, pp. Dahl, Neural message passing for quantum chemistry, in: Proceedings of the 34th International original draft. ated,canbereadilyidentifiedinthegenerationsequence.Thisfea- Courville, Y. Bengio, Generative adversarial nets, in: Advances in Neural tureisveryimportantasitsimplifiesanyprocessofimprovement InformationProcessingSystems,2014,pp.2672–2680.. [8] H. Wang, J. Wang, J. Wang, M. Zhao, W. Zhang, F. Zhang, X. Xie, M. Guo, orrepurposingofthemodel.",
+      "page_number": 9
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 1.pdf",
+      "refined_text": "comparisons with other models, and the considerations on their For each generative step, we need an input graph, the index of significance. Although this cost would likely be critical for a truly recurrent Lower temperatures come at the cost of an increasing gradient model, it is sustainable in this learning framework, in which the s s variance.Thechoiceoftwoparameters and ,andacurve, correlationbetweentwostepsislimitedtotheoutputofthefirst max min will determine the annealing path. SubSection 4.2 describes the 3.3.GraphPreprocessing modelsetup,dealswiththehyperparameters,andintroducesthe experimentsweperformed.Theevaluationmethodsaredescribed Tobuildthetraining,validation,andtestsetsforM1,M2,M3, in SubSection 4.3, while Subsection 4.4 contains the results, the themoleculesfromthedatasetunderanalysisarepre-processed. P.Bongini,M.BianchiniandF.Scarselli Neurocomputing450(2021)242–252 (cid:6) P1 faces a node-based classification problem, as it decides jVj stop decisions from M1 (see Algorithm 1). This is particularly important to avoid evaluation biases (cid:6) P2dealswithanedge-basedclassificationproblem,sinceitgen- deriving from testing or validating on examples which have erates the label of the edge connecting the vertex being slightlydifferentreplicasinthetrainingset.",
+      "page_number": 3
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 1.pdf",
+      "refined_text": "In this work, we opted for learning F Similarly to GraphRNN [11], we follow a Breadth First Search withanMLP,whilekeepingMandAfixed.Thischoiceisalsoinline (BFS) ordering to decide which nodes to expand first. Efficient automatic generative originalwork[14],towhichweredirectforadetailedmathemat- techniques are required for the exploration of such huge space, icalformulationofthemodel.Theimplementationisdescribedin and deep generative models represent ideal candidates. The method focuses on one node at a belearntbyneuralnetworks.Inearliermodels[37],Mwasimple- time,andgeneratesitsneighborsbeforeprocessingthefollowing mented by a MultiLayer Perceptron (MLP), while the other two node, preventing disconnected components from being created. The experiments also clarify the main gence or a maximum number of iterations k¼k max are reached. The state of all the vertices is then updated iteratively, i i tionofmoleculargraphs[28].Junction-TreeVAEsbuildgraphsby and in parallel, until convergence and/or a maximum number of connecting pre–extracted structural motifs [29], an approach iterationsarereached.Duringthisprocess,eachvertexcommuni- which has been recently extended to larger molecules and poly- cates with its neighbors by sending and receiving messages.",
+      "page_number": 1
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 1.pdf",
+      "refined_text": "[53] Q.Liu,M.Allamanis,M.Brockschmidt,A.Gaunt,Constrainedgraphvariational [30] W.Jin,R.Barzilay,T.Jaakkola,Hierarchicalgenerationofmoleculargraphs autoencoders for molecule design, in: Advances in Neural Information usingstructuralmotifs,2020.. ProcessingSystems,vol.31,2018,pp.7795–7804. In July 2015, he [34] J.You,B.Liu,Z.Ying,V.Pande,J.Leskovec,Graphconvolutionalpolicynetwork obtainedabachelordegreeinInformationEngineering, for goal–directed molecular graph generation, in: Advances in Neural followedinJuly2018byamasterdegreewithhonorsin InformationProcessingSystems,2018,pp.6410–6421.. Computer and Automation Engineering, both at the [35] E.Jang,S.Gu,B.Poole,Categoricalreparameterizationwithgumbel-softmax, University of Siena. Maddison, D. Tarlow, T. Minka, A* sampling, in: Advances in Neural theUniversityofSiena.Hermainresearchinterestsare InformationProcessingSystems,2014,pp.3086–3094.. in the field of machine learning, with emphasis on [41] L.C. Shoichet, Zinc- a free database of commercially available compounds for virtual screening, Journal of Chemical Information and ing,In.J.ofKnowledge-BasedandIntelligentEngineer- Modeling45(1)(2005)177–182. His main research interests are in:5thInternationalConferenceonLearningRepresentations(ICLR),2017. bioinformatics and machine learning on structured [36] F.Scarselli,M.Gori,A.C.Tsoi,M.Hagenbuchner,G.Monfardini,Computational data.",
+      "page_number": 10
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "refined_text": "Some published studies have model training and evaluation scripts were available in demonstrated that SHAP method has high potential Additional file 2. in understanding arbitrary complicated ML models According to the recommendations of MoleculeNet [39, 65]. GCN, GAT, MPNN and Attentive FP for each multi- task dataset, and the average performance across mul- Washing of the benchmark datasets tiple tasks was reported. However, it is not practical to Data quality is one of the fundamental questions in generalize the multi-task learning to traditional descrip- cheminformatics and the incorrect or inappropri- tor-based models (i.e. The pretation framework called SHapley Additive exPla- additional check of the training logs also proved that nations (SHAP) was employed to interpret the ML this empirical value is enough to learn representative models due to its both local and global interpretability parameters for NN-based models. Several interpretation methods have × ond stage, in order to alleviate the effect of the ran- been proposed to uncover the “black-box” essence of domness of data splitting, 50 independent runs with ML algorithms and they can be roughly classified into different random seeds for data splitting (training/vali- two major categories: model-specific and model-agnos- dation/test 8:1:1) were performed to evaluate each tic strategies.",
+      "page_number": 7
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "refined_text": "As we can see, their performances on the Similar to the convolutions on the regular data such benchmark datasets vary from one to another, which may as images and texts, GNN generalizes this operation be attributed to the discrepancies on the model archi- to the irregular molecular graph that is a natural rep- tectures, evaluation methods, training strategies and so resentation for chemical structures. The representa- information encoded by molecular graphs is used as the tive GNN models and their statistical performances on input, and then a graph-based DL algorithm, such as the MoleculeNet benchmark datasets [32] are summa- graph neural networks (GNN), is used to train a model. The key feature of GNN is its capacity molecular descriptors and/or fingerprints commonly to automatically learn task-specific representations using used in traditional quantitative structure–activity rela- graph convolutions while does not need traditional hand- tionship (QSAR) models are used as the input, and then crafted descriptors and/or fingerprints. Naturally, a molecule can also be considered as a dictions to 6 out of 11 benchmark datasets, including 2 graph consisting of a set of atoms (nodes) and a set of regression tasks (ESOL and FreeSolv) and 4 classification bonds (edges). More recently, the boring atoms encoded by the atom feature vector and emergence of deep learning (DL) methods has revolu- the information of the connected bonds encoded by the tionized this traditional cheminformatics task due to bond feature vector through message passing across the their extraordinary capacity to learn intricate relation- molecular graph recursively (Fig.",
+      "page_number": 1
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "refined_text": "The basic objective of SVM is to find the optimal GNN architectures for molecular property prediction hyperplane in the feature space that can maximize the can be formulated in this flexible framework [24, 26, 34, distance between the data points and hyperplane, and 37]. For linearly insep- it has shown versatility in many applications such as nat- arable feature space, the kernel trick is needed to map the ural language processing, image segmentation, chemical/ original feature space onto a new higher separable linear molecular graphs, and so on. J Cheminform (2021) 13:12 Page 6 of 23 representative ML algorithms (i.e., DNN, SVM, XGBoost split finding technique for efficient training on sparse and RF) were used to develop the descriptor-based mod- data, etc. In the implementation of RF algorithm, sample per- three hidden layers feed-forward neural networks were turbation via bootstrap sampling of the training data and employed, and the following key hyper-parameters were feature perturbation via random feature subset selection optimized: L2 regularization (0 to 0.01), dropout rate (0.0 are introduced to improve the diversity of base learner to 0.5) and neurons for each hidden layer (64, 128, 256, (decision trees), which corrects for the overfitting habit 512). In the training of RF, the following vious studies was used as the activation function [25, 47], hyper-parameters were optimized: n_estimators (10, 50, and the optimizer was set to an adaptive learning rate 100, 200, 300, 400, 500), max_depth (3 to 12), min_sam- algorithm: Adadelta [48].",
+      "page_number": 5
+    },
+    {
+      "document": "Graph Neural Networks for Drug Discovery 4.pdf",
+      "refined_text": "and it is apparently unreason- At the outset, the same training, validation, and test sets able to use such datasets for model building. In this for the development of the Attentive FP models were regard, we developed a python script based on MOE adopted, and the corresponding statistical results for the (Version: 2015.1001) and RDKit (Version: 2019.09.1) six single-task datasets including three regression tasks to automatically eliminate the incorrect or inappro- and three classification tasks given by the four descrip- priate structures from the original datasets with the tor-based and four graph-based models are summarized following steps: (1) For the mixtures and compounds in Table 3 (regression tasks) and Table 4 (classification containing salts, counterions, and solvents, we used tasks). including one graph-based method (Attentive FP) and Table 3 The performance comparison (RMSE) of the four descriptor-based and four graph-based models on the three regression datasets (data folds were generated from Attentive FP and the top three model were italic for each dataset) Dataset No. a compromised method of keeping the major com- For the regression tasks, one of the graph-based mod- ponent with the largest number of heavy atoms and els, Attentive FP, achieves the best statistical perfor- the retained component was neutralized if possible. As we = nized by MOE were eliminated; (2) A molecule was can see, the performances of three classical graph-based identified as an inorganics if it does not contain any models (i.e., GCN, GAT and MPNN) and RF are obvi- carbon atom and then eliminated from the datasets.",
+      "page_number": 8
     }
   ]
 }
