@@ -6,10 +6,16 @@ This project builds upon the PDF Outline Extractor from Round 1A, enhancing docu
 
 ## Demo Video and Detailed Documentation
 
-[Click here for a **short video demonstration** of our execution.](#)
-[Click here for a **detailed documentation** of our execution.](#)
+* [Click here for a **short video demonstration** of our execution.](#)
+
+* [Click here for a **detailed documentation** of our execution.](documentation%20and%20demo/APIcalypse%20Documentation_Adobe%20Round%201b.pdf)
 
 ## Our Approach: Intelligent Section Extraction and Ranking
+System Architecture:
+![System Architecture](documentation%20and%20demo/APIcalypse%20Round%201b_System%20Architecture.png)
+<\br>
+Pipeline:
+![Pipeline](documentation%20and%20demo/APIcalypse%20round%201b_Process%20Flow.png)
 
 Our solution is designed to understand your specific needs (persona and job-to-be-done) and highlighting the most relevant parts of a PDF. This is achieved through a multi-stage process:
 
@@ -46,8 +52,8 @@ Our solution is designed to understand your specific needs (persona and job-to-b
 .
 ├── documentation and demo/           #You will find the documentation, demo video and pipeline of our solution here
 ├── input/
-│   ├── PDFs/         # Place your PDF documents here
-│   └── input.json    # User persona and job-to-be-done configuration
+│   ├── PDFs/                         # Place your PDF documents here
+│   └── input.json                    # User persona and job-to-be-done configuration
 ├── output/                           # Generated JSON output will be saved here
 ├── sample cases and outputs/ 
 ├── output/ 
@@ -56,9 +62,9 @@ Our solution is designed to understand your specific needs (persona and job-to-b
 │   ├── models/
 │   │   └── layoutlmv3/               # Pre-trained LayoutLMv3 model files/
 │   └── model.py                      # Main script to run the analysis        
-├── Dockerfile        # Docker setup file
-├── requirements.txt  # Python dependencies
-└── README.md         # This README file
+├── Dockerfile                        # Docker setup file
+├── requirements.txt                  # Python dependencies
+└── README.md                         # This README file
 ```
 
 ## Setup & Running the Extractor (Docker)
