@@ -1,0 +1,27 @@
+{
+    "challenge_info": {
+        "challenge_id": "test_case_002",
+        "test_case_name": "business_analysis",
+        "description": "Business analysis of tech company performance"
+    },
+    "documents": [
+        {
+            "filename": "Tech_Company_A_Annual_Report_2022-2024.pdf",
+            "title": "Tech Company A Annual Report 2022-2024"
+        },
+        {
+            "filename": "Tech_Company_B_Annual_Report_2022-2024.pdf",
+            "title": "Tech Company B Annual Report 2022-2024"
+        },
+        {
+            "filename": "Tech_Company_C_Annual_Report_2022-2024.pdf",
+            "title": "Tech Company C Annual Report 2022-2024"
+        }
+    ],
+    "persona": {
+        "role": "Investment Analyst"
+    },
+    "job_to_be_done": {
+        "task": "Analyze revenue trends, R&D investments, and market positioning strategies"
+    }
+}

@@ -4,9 +4,10 @@
 
 This project builds upon the PDF Outline Extractor from Round 1A, enhancing document intelligence by focusing on **context-aware extraction and ranking of relevant document sections**. It leverages advanced NLP techniques and a specialized LayoutLMv3 model to not only identify headings but also understand their relevance to a user's specific persona and job-to-be-done. The system provides prioritized sections and refined key sentences, turning any PDF into an intelligent, actionable resource.
 
-## Demo Video
+## Demo Video and Detailed Documentation
 
-[Click here for a short video demonstration of our execution.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Click here for a **short video demonstration** of our execution.](#)
+[Click here for a **detailed documentation** of our execution.](#)
 
 ## Our Approach: Intelligent Section Extraction and Ranking
 
@@ -43,14 +44,18 @@ Our solution is designed to understand your specific needs (persona and job-to-b
 
 ```
 .
+├── documentation and demo/           #You will find the documentation, demo video and pipeline of our solution here
 ├── input/
 │   ├── PDFs/         # Place your PDF documents here
 │   └── input.json    # User persona and job-to-be-done configuration
-├── output/           # Generated JSON output will be saved here
-├── pretrained_models_bert_tiny/ # Pre-trained BERT-Tiny model files
-├── models/
-│   └── layoutlmv3/   # Pre-trained LayoutLMv3 model files
-├── main.py           # Main script to run the analysis
+├── output/                           # Generated JSON output will be saved here
+├── sample cases and outputs/ 
+├── output/ 
+├── src/                              # All the brains of the operation live here!
+|   ├── pretrained_models_bert_tiny/  # Pre-trained BERT-Tiny model files
+│   ├── models/
+│   │   └── layoutlmv3/               # Pre-trained LayoutLMv3 model files/
+│   └── model.py                      # Main script to run the analysis        
 ├── Dockerfile        # Docker setup file
 ├── requirements.txt  # Python dependencies
 └── README.md         # This README file
@@ -65,16 +70,14 @@ We leverage Docker to make setup and execution incredibly simple and portable.
 First, build the Docker image from the project's root directory:
 
 ```bash
-docker build --platform linux/amd64 -t adobe-r1b-extractor:latest .
+docker build -t apicalypse-1b:latest .
 ```
 
 ### Prepare Input
 
-1.  Create an `input` directory at the root of your project.
+1.  Inside `input`, place your `.pdf` documents in the `PDFs` directory. (sample input has been provided)
 
-2.  Inside `input`, create a `PDFs` directory and place your `.pdf` documents there.
-
-3.  Also inside `input`, create an `input.json` file with your `persona` and `job_to_be_done` details.
+2.  Also inside `input`, update the `input.json` file with your `persona` and `job_to_be_done` details.
 
     **Example `input.json`:**
 
@@ -90,7 +93,7 @@ docker build --platform linux/amd64 -t adobe-r1b-extractor:latest .
 Execute the Docker container. This command mounts your local `input` and `output` directories to the container, allowing it to read your PDFs and save the results.
 
 ```bash
-docker run --rm -v "$(pwd)/input:/app/input" -v "$(pwd)/output:/app/output" --network none adobe-r1b-extractor:latest
+docker run --rm -v "$(pwd)/input:/app/input" -v "$(pwd)/output:/app/output" --network none apicalypse-1b:latest
 ```
 
 The processed output (a JSON file) will appear in the `output/` folder.
