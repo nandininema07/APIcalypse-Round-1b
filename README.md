@@ -2,19 +2,19 @@
 
 ## Overview
 
-This project builds upon the PDF Outline Extractor from Round 1A, enhancing document intelligence by focusing on **context-aware extraction and ranking of relevant document sections**. It leverages advanced NLP techniques and a specialized LayoutLMv3 model to not only identify headings but also understand their relevance to a user's specific persona and job-to-be-done. The system provides prioritized sections and refined key sentences, turning any PDF into an intelligent, actionable resource.
+This project builds upon the PDF Outline Extractor from [Round 1A](https://github.com/nandininema07/APIcalypse-Round-1a), enhancing document intelligence by focusing on **context-aware extraction and ranking of relevant document sections**. It leverages advanced NLP techniques and a specialized LayoutLMv3 model to not only identify headings but also understand their relevance to a user's specific persona and job-to-be-done. The system provides prioritized sections and refined key sentences, turning any PDF into an intelligent, actionable resource.
 
 ## Demo Video and Detailed Documentation
 
-* [Click here for a **short video demonstration** of our execution.](#)
+* [Click here for a **short video demonstration** of our execution.](https://youtu.be/jevhGHqSgsQ)
 
 * [Click here for a **detailed documentation** of our execution.](documentation%20and%20demo/APIcalypse%20Documentation_Adobe%20Round%201b.pdf)
 
 ## Our Approach: Intelligent Section Extraction and Ranking
 System Architecture:
 ![System Architecture](documentation%20and%20demo/APIcalypse%20Round%201b_System%20Architecture.png)
-<\br>
-Pipeline:
+
+Project Pipeline:
 ![Pipeline](documentation%20and%20demo/APIcalypse%20round%201b_Process%20Flow.png)
 
 Our solution is designed to understand your specific needs (persona and job-to-be-done) and highlighting the most relevant parts of a PDF. This is achieved through a multi-stage process:
@@ -49,7 +49,7 @@ Our solution is designed to understand your specific needs (persona and job-to-b
 ## Folder Structure
 
 ```
-.
+APIcalypse-Round-1b
 ├── documentation and demo/           #You will find the documentation, demo video and pipeline of our solution here
 ├── input/
 │   ├── PDFs/                         # Place your PDF documents here
